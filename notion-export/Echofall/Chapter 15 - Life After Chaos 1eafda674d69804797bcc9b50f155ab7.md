@@ -287,6 +287,8 @@ But he pulled out a pen and notepad and wrote down a name - "Cordelle" - "That's
 
 James got back in his cab, and he had a schedule to keep.
 
+![chapter15james.png](Chapter%2015%20-%20Life%20After%20Chaos/chapter15james.png)
+
 ### 7. **Dallas Red – Saskatchewan Prairies (Post-Arrival)**
 
 The last pickup truck kicked up a cloud of dust as it rolled down the dirt road, a trail of kids waving out the back, cheeks sticky with honeyed bannock and sunburned laughter, one last joking consensus amongst the folks heading home about the whole alien thing was a big government hoax.
