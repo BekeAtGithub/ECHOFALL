@@ -204,10 +204,6 @@ She slammed the glass down hard on the counter, loud enough to make Dallas jump.
 
 “GET OUT.”
 
-![u8296664269_httpss.mj.runSqs-e8iZT7Q_httpss.mj.run41vR_ds3CIA_e82b76bd-a634-45be-8c04-e70ff352e7fb_2.png](Chapter%2022%20-%20Ferron/u8296664269_httpss.mj.runSqs-e8iZT7Q_httpss.mj.run41vR_ds3CIA_e82b76bd-a634-45be-8c04-e70ff352e7fb_2.png)
-
-<Female Rhonza bartender by the name of Jarkzi>
-
 They exited quickly, backs straight, not daring to look at the patrons inside ; Rhonza merchants, traveling smiths, a few armored juggernauts drinking something thick and brown from metal mugs.
 
 The door slammed shut behind them with a hiss of hydraulics.
