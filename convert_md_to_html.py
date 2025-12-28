@@ -26,8 +26,16 @@ def markdown_to_html(md_content):
     html = re.sub(r'###\s+(.*?)$', r'<h3>\1</h3>', html, flags=re.MULTILINE)
     html = re.sub(r'##\s+(.*?)$', r'<h2>\1</h2>', html, flags=re.MULTILINE)
     
-    # Convert images
-    html = re.sub(r'!\[(.*?)\]\((.*?)\)', r'<img src="images/\2" alt="\1" class="content-image">', html)
+    # Convert videos (mp4 files)
+    def convert_media(match):
+        alt_text = match.group(1)
+        file_path = match.group(2)
+        if file_path.lower().endswith('.mp4'):
+            return f'<video autoplay muted loop playsinline class="content-image"><source src="images/{file_path}" type="video/mp4"></video>'
+        else:
+            return f'<img src="images/{file_path}" alt="{alt_text}" class="content-image">'
+
+    html = re.sub(r'!\[(.*?)\]\((.*?)\)', convert_media, html)
     
     # Convert bold
     html = re.sub(r'\*\*(.*?)\*\*', r'<strong>\1</strong>', html)
