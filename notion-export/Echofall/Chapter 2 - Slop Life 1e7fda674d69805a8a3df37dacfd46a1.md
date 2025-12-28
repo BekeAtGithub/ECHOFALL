@@ -1,7 +1,5 @@
 # Chapter 2 - Slop Life
 
-As we started Chapter 1 with a familiar, easy going, pleasant world of many similarities, let’s take a 180 turn. This is a world where evolution failed *constantly*. 
-
 If you have a weak stomach - perhaps, skip this chapter.
 
 This story is heinous, putrid and slow.

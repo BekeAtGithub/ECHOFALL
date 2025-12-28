@@ -1,6 +1,6 @@
 # Chapter 8 - Sky Market Traders
 
-Kavariin **- Sky Market Traders**
+**Kavariin**
 
 “Kavariin - a planet of rich life which precedes the LUCA Seed, existing far before “The Ancient Ones”- of this books Prologue.
 Born of predators, the Avaris could have ruled by fang and talon.

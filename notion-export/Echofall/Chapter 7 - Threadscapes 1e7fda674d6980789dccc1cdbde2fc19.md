@@ -1,6 +1,6 @@
 # Chapter 7 - Threadscapes
 
-### **Serica - The Living Threadscape**
+### **Serica**
 
 “The great tailors of the universe
 

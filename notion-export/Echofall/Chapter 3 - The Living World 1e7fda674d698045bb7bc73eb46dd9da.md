@@ -4,7 +4,7 @@ This next chapter will explore a biological caste system born not from ideology,
 
 This will be a harsh and morally disturbing chapter, echoing the most dehumanizing parts of human history ; but in the cold, indifferent language of evolution.
 
-## **Archon - The Living World**
+## **Archon**
 
 “On **Archon**, 
 Evolution branched into purpose, and purpose hardened into hierarchy.

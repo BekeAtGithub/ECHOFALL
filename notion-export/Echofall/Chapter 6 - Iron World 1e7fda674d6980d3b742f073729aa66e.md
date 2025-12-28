@@ -1,6 +1,6 @@
 # Chapter 6 - Iron World
 
-### **Ferron - Iron World**
+### **Ferron**
 
 “Like a forge, born from coal, fire, smoke and steel.”
 

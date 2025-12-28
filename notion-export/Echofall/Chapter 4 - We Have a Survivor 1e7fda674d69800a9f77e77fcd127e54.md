@@ -1,6 +1,6 @@
 # Chapter 4 - We Have a Survivor
 
-### **Earth - We Have a Survivor**
+### **Earth**
 
 “We have a survivor.”
 

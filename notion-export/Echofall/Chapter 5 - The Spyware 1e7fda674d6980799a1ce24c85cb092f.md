@@ -1,6 +1,6 @@
 # Chapter 5 - The Spyware
 
-**Oc’Xari - The Spyware**
+**Oc’Xari**
 
 "Ethereal, enchanted, alive.
 We are the ones who watched."

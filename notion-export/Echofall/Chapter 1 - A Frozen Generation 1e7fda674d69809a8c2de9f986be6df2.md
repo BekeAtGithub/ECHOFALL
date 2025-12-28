@@ -2,10 +2,10 @@
 
 I hope you brought a winter jacket; this place is freezing cold…
 
-## **Trenmor-3 -The Frozen Generation**
+## **Trenmor-3**
 
-“Trenmor-3 was cold, and it sucked. Like Mongolia… no, maybe not that bad.
-Most seeds landed on planets that weren’t very optimal for life. Trenmor-3 was the most common scenario.”
+“Trenmor-3 was cold, and it sucked. Like Mongolia, the land of my ancestors… no, maybe not as bad as Mongolia.
+Most seeds landed on planets that weren’t very optimal for life.”
 
 ### I. Planet Overview
 
@@ -21,6 +21,7 @@ Trenmor-3 was a planet of silence, frost and isolation. Life thrived deep below,
 ![berth54_Huge_glacier_breaking_up_into_icebergs_arctic_landscape_07e8c23d-9afa-4138-a855-708614cd3bab.png](Chapter%201%20-%20A%20Frozen%20Generation/berth54_Huge_glacier_breaking_up_into_icebergs_arctic_landscape_07e8c23d-9afa-4138-a855-708614cd3bab.png)
 
 <Nitrogen lakes of Trenmore-3>
+
 
 ### II. Evolutionary Landscape
 
@@ -38,6 +39,7 @@ Over hundreds of millions of years, life grew more complex ; but not *larger*.
 
 Instead, it became more organized, like biological architecture.
 
+
 ### III. The Age of Pattern
 
 By ~780 million years post-LUCA, microbial colonies across Trenmor’s deep ocean began behaving increasingly structured.
@@ -51,3 +53,5 @@ Colonies exhibited:
 Researchers now believe these colonies achieved a form of distributed proto-consciousness ; not thought as we know it, but memory encoded in the rhythm of division and death.
 
 Life lived on this way for millions of years. Never really flourishing, just surviving in tiny heat pockets throughout the planet.
+
+Trenmore-3 was not an uncommon scenario for LUCA life.
