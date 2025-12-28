@@ -6,6 +6,8 @@ Compiled 102.3 Billion Years Post-Seeding
 
 Written by an Avaris Historian; Adam Marton Beke.
 
+![author.jpg](The%20Chronicles%20of%20Evolution/author.jpg)
+
 Disclaimer:
 
 As you begin this book, keep one truth in mind:
