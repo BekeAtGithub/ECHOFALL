@@ -435,6 +435,8 @@ And if the world was ending, James Kokayko figured he might as well go down doin
 
 Driving. Alone. Under the northern lights.
 
+![chapter13jamestruck.png](Chapter%2013%20-%20Hysteria/chapter13jamestruck.png)
+
 ### 7. **Dallas Red – The Wranglin’ Cowboy, Saskatchewan Prairies**
 
 From a townless countryside farm in Saskatchewan Canada
