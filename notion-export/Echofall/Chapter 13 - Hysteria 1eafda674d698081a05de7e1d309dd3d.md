@@ -232,7 +232,7 @@ But he called it paying rent.
 
 ![daltonss.png](Chapter%2013%20-%20Hysteria/daltonss.png)
 
-### 3. **Iseul Kim – Tattoo Artist, Daegu**
+### 3. **Iseul Jungwon – Tattoo Artist, Daegu**
 
 Business exploded when the signal reached South Korea.
 

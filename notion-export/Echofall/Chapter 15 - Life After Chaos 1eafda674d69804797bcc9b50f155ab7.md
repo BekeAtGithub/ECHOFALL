@@ -77,7 +77,7 @@ In the following months, Dalton received a particular distress call from Law Enf
 
 ![u8296664269_httpss.mj.runfdgZQC4PsxU_crowd_INFRONT_of_main_ch_e13134f6-c5d0-4c7c-b520-7b99c736ef0b_3.png](Chapter%2015%20-%20Life%20After%20Chaos/u8296664269_httpss.mj.runfdgZQC4PsxU_crowd_INFRONT_of_main_ch_e13134f6-c5d0-4c7c-b520-7b99c736ef0b_3.png)
 
-### 3. Iseul Kim **– Tattoo Artist, Daegu (Post-Arrival)**
+### 3. Iseul Jungwon **– Tattoo Artist, Daegu (Post-Arrival)**
 
 Business slowed after the Arrival.
 
