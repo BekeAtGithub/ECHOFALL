@@ -991,13 +991,19 @@ Research stations operated by Rwandan scientists. Mining operations funded by Bo
 
 EON-7b, still operational on Nhexus, had been joined by dozens of other rovers and probes exploring distant worlds.
 
-### **Epilogue - The Unanswered Question**
+**Year 500 - Corruption**
+
+Humans do, what they do best. Greed, corruption, deception.
+Politics in Africa became very cutthroat. The generations that built up Africa 500 years ago were long gone. The new leaders of Africa sold their countries away to other competitive nations.
+
+Power juggled between countries, alliances and leaders.
 
 **Year 1000 - The Silence Continues**
 
-Every country on Earth was now a member of the Coalition.
+Every country on Earth was now a part of the common goal, to reach for the stars.
+Space exploration was no longer a competition. It was a collective effort. 
 
-EON-7b, incredibly, was still transmitting from Nhexus after a millennium of operation—a testament to Dmitry's engineering.
+EON-7b had retired, many other countries have landed their probes on Nhexus to survey and collect data. 
 
 Humanity had spread across the solar system. Mars. Europa. Titan. Enceladus. Ganymede.
 

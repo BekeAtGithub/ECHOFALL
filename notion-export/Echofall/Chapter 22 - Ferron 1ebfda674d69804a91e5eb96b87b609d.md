@@ -170,6 +170,8 @@ Her face was almost human, save for the elongated cheekbones and shimmering skin
 
 She gestured at a sign above the door, showing a rough sketch of a small, hunched rodent like critter with twitchy limbs and a giant X through it.
 
+![rhonzavid.mp4](Chapter%2022%20-%20Ferron/rhonzavid.mp4)
+
 Dallas raised both palms, trying to calm the mood.
 
 “Hey now, hold on. We don’t mean trouble. We just got here, and we’re trying to figure out where here is. Where are we, exactly?”
