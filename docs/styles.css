@@ -208,6 +208,12 @@ main {
     border: 1px solid rgba(138, 92, 246, 0.3);
 }
 
+/* Author image - smaller size */
+.content-image[alt="author.jpg"] {
+    max-width: 20%;
+    min-width: 150px;
+}
+
 /* List styling */
 .content ul {
     margin: 20px 0;
