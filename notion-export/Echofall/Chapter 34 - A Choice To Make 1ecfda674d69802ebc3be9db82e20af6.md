@@ -1,0 +1,373 @@
+# Chapter 34 - A Choice To Make
+
+### **I. The Final Night - 2548**
+
+It had been almost a decade since the raid on the ranch.
+
+Dmitry worked alone in the graveyard shift of a rotting, hollowed-out factory in Seattle; mopping the same grease-stained tiles, pushing the same rickety cart. The city outside had long decayed into a smog-choked slum hive, and his life had reduced to a cold meal, a cold bed, and colder silence.
+
+That night, his path took him into the basement. He needed a new mop head.
+
+The concrete stairwell echoed beneath his boots as he descended. The lights down there flickered; always had; and the far corner of the basement, beyond the reach of any lightbulb, remained pitch black. A permanent void.
+
+As he reached for the supply shelf-
+
+A voice.
+
+Shaky. Familiar.
+
+“Dmitry…”
+
+He froze. Slowly turned. His pulse thumped in his neck.
+
+Another whisper. This time clearer.
+
+“Dmitry…”
+
+Steven’s voice.
+
+No doubt about it.
+
+Dmitry scanned the room, did a full spin. Then stared at the corner of pure darkness.
+
+“Steven?” he muttered.
+
+![cellar.jpg](Chapter%2034%20-%20A%20Choice%20To%20Make/cellar.jpg)
+
+From the void… 
+
+“Don’t be shy, Steven. Ask your friend for mercy.”
+
+A figure stepped forward just enough to be outlined by the weak ambient glow. Steven. Shaking. Tears glimmered in his eyes.
+
+One foot shuffled forward. A flip-flop.
+
+Dmitry spotted something curling around Stevens foot; a tendril, slow and sludgy… the pig, was behind him. He didn’t see it, but he *knew*
+
+“Do you want to make a deal, Dmitry?” Steven sobbed. “Please…”
+
+Dmitry backed up half a step.
+
+“A deal? I have nothing left. I’m just a janitor. A broken man in a broken world.”
+
+The voice snarled.
+
+“Ungrateful worm.”
+
+“Turn around, look at what you’ve done to your commander.”
+
+Dmitry paused, turned-
+
+Behind him, impossibly-
+
+A jail cell. Materialized out of basement brick and void.
+
+Inside: Haoyu.
+
+Sitting in the corner, knees to his chest. Sobbing. Rocking back and forth like a child in terror.
+
+“His execution is tomorrow,” the demon said. “When he dies… I will consume what’s left of his soul. And I will torture it beyond death, beyond time; long after the stars fade and the universe cools to silence.”
+
+Dmitry, teeth gritted, growled:
+
+“That makes no sense. Nothing lasts longer than the universe.”
+
+The pig laughed.
+
+The voice shifted, almost amused.
+
+"Oh, Dmitry. Always so clever."
+
+“Let me teach you something, Dmitry.”
+
+“When the universe was young, long before your kind crawled out of sludge, there were **The Ancient Ones;** architects of the LUCA seed ; who feared the death of their genetics more than to tamper with the natural lifecycle of the universe. So they built their LUCA Canon, fired their desperate hope across the stars. Trillions of cells. Trillions of sparks of fabricated hope, in places hope shouldn’t be.”
+
+“They played God. wanted to save life. Not for you. For themselves. What a narcissistic goal”
+
+“Of the thousands of planets seeded, only a handful survived. Did you know, there is another ancient civilization that predates LUCA? The ***Avaris from Kavariin*** - You see, I have never visited Kavariin. Because they are still a part of the original, natural life of the universe - they didn’t play God, and they are not synthetically created evolved beings such as yourself. So I don’t need to meddle in their affairs. They play by my rules.”
+
+“But the rest? There were many worlds like Nhexus, not identical, but similar... they suffered for billions of years. Places like Nhexus would have never existed in my classic rules of life in the universe - no, no, nothing like that would have ever happened! Your planet got very lucky Dmitry, dumb luck that you exist the way you do, and not as a puddle of agonized suffering slop.”
+
+“This is my realm, Dmitry. My game, my house, my rules.”
+
+“I was there before the universe existed, I was there when life budded and became, I designed the perfect solar system habitats for life to thrive in harmony and joy, it was such a beautiful phenomena. The beings who constructed the LUCA Canon tempered with the glorious cycle of life in my realm, they RUINED life..”
+
+Dmitry’s throat tightened. “So a lot life in our galaxy asides from Kavariin... came from a cannon? We’re all just cousins of ancient arrogance?”
+
+The Pig laughed.
+
+“Such petty questions. And yet, yes.”
+
+“If they had not intervened-
+No Nhexus. No pain. No Commander. No torment.
+No reason for me to come.”
+
+“Now I am here. With you.”
+
+There was a strange shift in perspective that Dmitry now had toward the Pig. It wasn’t a pig.
+
+It was… maybe… the Creator of the universe?
+
+The universe was its project ; something it had carefully designed, with pre-selected planets, each one chosen as a perfect place for life to begin, evolve, and flourish over billions of years in the gentle, structured ways it had intended. It had a plan for lifecycles, it had a roadmap plan - engineering how the universe would unfold.
+
+But when the LUCA seed was launched… It was like a bug, a virus in the system, ruining an immaculately designed universe.
+
+**The Ancient Ones** unraveled the thread of prophecy.
+
+They had recklessly littered the stars with low-quality, synthetic life ; trash biology on random unlivable worlds that evolved into nothing but pain, suffering, and horrific amalgamations of “life” that should have never existed in the Architect’s ideal universe. The Oc’Xari being the biggest issue - essentially they are an immortal life essence that would live forever. A stain on a white designer dress.
+
+This is why the entity was so enraged.
+
+To us, it appeared evil.
+
+But to it, this was justice.
+
+Something far beyond mortal comprehension.
+
+But Dmitry uttered an understanding statement;
+
+“So, you are the custodian of the stars you-or maybe something else created, trying to clean up the mess of an ancient, ignorant alien civilization that ruined what you had planned.”
+
+The voice purred.
+
+“Very impressive, Dmitry Alexeyev. Signal architect. Driver of the Nhexus rover. It was a curious machine you designed.”
+
+The silence returned.
+
+Only Haoyu’s whimpering remained. His sobs were small. Shattered.
+
+And then…
+
+“So…” the demon said, voice smooth like oil and rot.
+
+“About that deal.”
+
+### **II. Options**
+
+Again, Dmitry spoke, voice low and bitter.
+
+“I can’t make a deal. I don’t have anything. I have no power in this world.”
+
+The voice answered ; calm, heavy, ancient:
+
+“You have no power… yet I will grant you the power of options.”
+
+A pause. And then ; two options, delivered like sacred scripture carved into stone:
+
+**“Option One:”**
+
+“Refuse the deal. Walk away. I will leave you be. You will never hear from me again.”
+
+“But Haoyu will die tomorrow. And Dallas will rot in prison until his final, forgotten breath. I will engulf Steven ; body, soul, and spirit ; and I will haunt all 22 members of the Echofall project whom you worked with: Yuyan, Pragnya… all of them.”
+
+“And I will take Haoyu’s children. His wife. I will sink them into eternal torment, as payment for the echoes your mission unleashed.”
+
+**”Option Two:”**
+
+The voice deepened. Slowed. Became intentional.
+
+“Find me the artifact. The guitar given to Dallas Red by the Oc’Xari.”
+
+“If you choose this option… I will create an event that delays Haoyu’s execution by one week.”
+
+“Bring me the artifact, and I will reverse time ; thirty years back, to before your rover ever landed on the meteor.”
+
+“I will wipe everyone’s memories, except yours.”
+
+“You will be in charge of intercepting the rover. That meteor was a one-in-a-billion anomaly ; the only chance to find Nhexus. There will never be another.”
+
+“The suffering… the madness… all of it, erased.”
+
+“The timeline reset.”
+
+“You, and you alone, will carry the memory of what once was.”
+
+“And I will leave this planet alone, forever. Let it wither naturally, the way it should have ; a barely habitable little rock in a messy solar system that would’ve never been an appropriate habitat for life. It’s a miracle Earth made it this far.”
+
+Dmitry stumbled on Option Two, brow furrowed, jaw clenched. He stepped forward from the dim haze and spoke out in protest to the pig:
+
+“A guitar? That makes no sense. You want to play with AC/DC? Chat’s the catch here?”
+
+“Couldn’t a being like you ; the so-called Creator of the Universe ; just make a new one? If you can just turn back time, can’t you turn it back to before they made the canon and just prevent this conversation we are having right now?”
+
+The Pig hummed. Not angrily, but in a way that almost sounded like respect. A dark, unsettling admiration.
+
+“Fair questions.”
+
+“You see, the seed I created ; the true seed of the universe ; I control. I architect the stars. I carve out time. I shape elements, dictate cycles, define physics, weave fate.”
+
+“But the life that created the LUCA seed... was a bug. A corruption. An anomaly in the divine algorithm.”
+
+“Even I, a superbeing outside time, cannot fully predict what they’ve done. They created life without purpose. Life without structure. They had no idea what they were doing! The universe is very complex, and they were arrogant enough to think they could save life. They dared to inject chaos into a system I spent longer than time itself perfecting.”
+
+“And then, they went extinct, vanishing into the void after launching their seed cannons ; abandoning their malformed children to rot on planets like Nhexus.”
+
+The room vibrated slightly as the pig continued, voice thick with ancient, cosmic rage:
+
+“But the artifact created by the Oc’Xari ; I cannot recreate, as it’s not from my seed.”
+
+“It is linked to their species. Every strand of DNA, every molecule, every spore.”
+”The Oc’Xari are an immortal essence, they will stain my realm forever.”
+
+“I need a link. The artifact is connected to their collective hive mind, and the location it was spawned is the gateway. If I possess it in the right location... I can wipe out the entire Oc’Xari race. Instantly. Irrevocably.”
+
+“Like fumigating a nest of vermin.”
+
+Dmitry stood frozen, the breath caught in his throat.
+
+His mind spun ; reeling through everything he’d heard, everything he’d *witnessed*. The vast scope of the universe. The deaths. The dreams. The suffering. The pig.
+
+And now… genocide?
+
+His voice cracked, quieter than before.
+
+“You want me to pick between saving my friends… and the extinction of an ancient alien species?”
+
+The Pig snapped back immediately ; not with wrath, but with something worse: annoyance. 
+
+“The Oc’Xari invaded your planet over a decade ago.”
+
+“There are millions of them ; not in ships, not in cities ; but molded into your planet's atmosphere. They are in the winds, the wires, the oceans, and yes… even in your teeth.”
+
+“And your *retarded human leaders* did nothing. They ignored it and blamed it on your Commander, obliterating his life. And you ; you don't even know. You designed the stupid rover Dmitry, you held the controller, launching it out into space, landing it onto a meteor that flew to Nhexus, and now the Oc’Xari invades your planet like spies, why would you pity the death of cancer.” The Pig accidentally admitting it was Dmitry’s fault Commander Zhang’s life was ruined.
+
+Dmitry avoided the thought - it was him piloting a big part of the mission that led to all this.
+
+A low hum of disgust vibrated through the air like a sub-bass growl.
+
+“The Oc’Xari have done this a thousand times before. To a thousand worlds ; long dead before your Earth learned to crawl.”
+
+“They linger. Observe. Infiltrate. And when they find life, they don’t destroy it. They just sit there. Watching.”
+
+“They embed. Wait. Until the planet dies.”
+
+“They are the parasitic spyware of my realm ; and I’m sick of playing cat and mouse with a virus that I have to endlessly chase around the void.”
+
+“Do you have any idea how hard it is to eradicate a species that behaves like that?”
+
+“You can't burn them. You can't trap them. They watch through mirrors. They move through static and they are everywhere.”
+
+“This guitar artifact ; created by their own hands ; is connected to all of them… it is a node I can use to end them. Forever.”
+
+The silence that followed felt cosmic. Heavy.
+
+Dmitry stood there. Heart racing.
+
+And the Pig's voice softened ; almost calm.
+
+“This isn’t about vengeance, Dmitry. It’s about cleaning up a broken system.”
+
+“The LUCA Seed was an infection.”
+
+“The Oc’Xari is the echo.”
+
+“And you… may behold the cure.”
+
+Dmitry evaluates his options,
+he looks back at Haoyu in his cell, still whimpering - insane, crazed, looking like some zombie or hysterical goblin rather than a human,
+
+Dmitry looks to the silhouette of Steven - "What do you think Steven?"
+
+Steven shifted in the shadows. His silhouette twitched slightly ; still bound by something not visible, something slick, something hungry. A tremble ran through his voice as he spoke, barely above a whisper:
+
+“I ain’t no saint, Lex…”
+
+“But I ain’t a devil neither.”
+
+“But then again... Will you let your commander die screaming in a hole? Will you let his wife and *kids* suffer? Will you let Pragnya, Yuyan, the rest of ‘em all rot in eternal hell... just ‘cause you were too soft to make the hard call?”
+
+“That thing…” ; he glanced into the dark behind him ; “It don’t *play*. It don’t *forget*. It don’t *forgive*.”
+
+“And maybe the Oc’Xari didn’t shoot no bullets... but if what he says is true… if they’re really everywhere, watchin’, listenin’, passively waitin’ for us to die, just gathering intel, who knows, maybe the Oc’Xari has a plan with all this to eventually overtake the universe, and take ownership from the guy who created it...”
+
+“...Then maybe someone’s gotta finally pull the damn plug.”
+
+Steven looked up at Dmitry. His eyes were watery, hollow.
+
+“I don’t know what the right answer is, man.”
+
+“But I know what happens if you do nothing.”
+
+He swallowed hard.
+
+“We lose everything.”
+
+Dmitry cleared his throat, voice shaky but grounded.
+
+“I have a couple concerns about the deal. Do you know where the guitar artifact is? Or do I have to find it? And… when I get it; where do I meet you to hand it over?”
+
+The Pig’s voice slithered in response, calm and calculated:
+
+“The artifact remains in a small, relatively unguarded police station in Swift Current, Saskatchewan; not far from the barn where your base was raided.
+
+I cannot interact with items crafted from foreign seeds myself; if I could, I would have taken it already. I could possess a police officer, compel them to bring it to me… 
+
+But I am a fair trader of deals. And I enjoy the humor in poetic justice.
+
+You, Steven, and your beloved Commander spent over 20 years searching for life. You opened the door. You revealed your planet’s position to the Oc’Xari. And you in the Oc’Xari became best friends as it projected you onto all sorts of different worlds you should have never seen. You invited me here.
+
+So it is only fitting that you be given the honor of seeing this through.
+
+Once you have the artifact, return to Dallas Red’s old barn.
+
+I’ll be waiting.
+
+You have seven days.”
+
+Dmitry asked again; “Why only 7, can’t we get an extension?”
+
+“Ask Mississippi execution protocol for why they can only postpone Class A executions by a week, this is the best I can do… Don’t be late.”
+
+And just like that- the pigs aura vanished. The Haoyu mirage was gone.
+
+The corner was empty.
+
+Steven stood there, chest heaving, finally letting out a massive, overdue breath; as if he’d been holding it since the beginning of time.
+
+The deal had been made.
+
+### **III. A Glimpse of Hope**
+
+Steven was still catching his breath, his hands on his knees, the echo of the Pig’s presence still crawling on his skin.
+
+“I… I just went to bed,” he stammered, eyes darting around the basement like he still wasn’t sure he was awake.
+
+“Had a bad dream. Next thing I know, I’m *here*. Watching you swap out a mop head… with a goddamn demon pig behind me.”
+
+Dmitry stared at him, still processing.
+
+“I haven’t seen you since the jail cafeteria. How the hell did you get to Seattle?”
+
+Steven looked down at his own clothes ; flip-flops, beach shorts, a wrinkled T-shirt. He hadn’t changed. He hadn’t packed. He hadn’t boarded a plane. He just… was here.
+
+“I’m.. what? I’m in Seattle? I don’t know, man,” he said. “I was in Florida like five minutes ago. Now I’m in this basement with you, haven’t even seen you, or heard from you since we got out of prison 8 years ago, and now the Devil’s making us choose between time travel and mass extinction.”
+
+They stood in silence.
+
+The hum of the basement fluorescent lights filled the void.
+
+Eventually, Dmitry muttered:
+
+“It wasn’t a hallucination. He’s real. And we made a deal.”
+
+Steven nodded, quietly.
+
+“We got seven days to get to Swift Current,” he said. “Get that damn guitar. Take it to the barn. And maybe… save Haoyu.”
+
+“And wipe an entire alien race out of existence.”
+
+“No pressure.”
+
+They locked eyes.
+
+Old teammates. Broken men.
+
+Eight years apart. But it didn’t matter now.
+
+“We need a plan,” Dmitry said.
+
+“Right now,” Steven agreed.
+
+They were back in it.
+
+In Mississippi Supermax - the execution scheduled to happen in a few hours - the warden in charge gets an emergency call to handle bureaucratic matters off in North Dakota - he postpones the execution by a week… as he marks it off, stamps it, and sent the memo out to the facility, he whispers to himself in pity… “That poor bastard has to suffer another week, I’m sorry for the delay Commander Zhang.”
