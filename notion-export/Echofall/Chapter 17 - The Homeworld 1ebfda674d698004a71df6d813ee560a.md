@@ -256,4 +256,4 @@ The TV was off.
 
 And the lingering pressure in his chest, like the weight of a hundred invisible eyes that hadn’t yet looked away.
 
-![ChatGPT Image May 12, 2025, 10_38_52 AM.png](Chapter%2017%20-%20The%20Homeworld/ChatGPT_Image_May_12_2025_10_38_52_AM.png)
+![judgeday.png](Chapter%2017%20-%20The%20Homeworld/judgeday.png)
