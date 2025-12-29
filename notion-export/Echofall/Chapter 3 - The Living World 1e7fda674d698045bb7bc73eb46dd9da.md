@@ -4,7 +4,7 @@ This next chapter will explore a biological caste system born not from ideology,
 
 This will be a harsh and morally disturbing chapter, echoing the most dehumanizing parts of human history ; but in the cold, indifferent language of evolution.
 
-## **Archon**
+## Archon
 
 “On **Archon**, 
 Evolution branched into purpose, and purpose hardened into hierarchy.
@@ -37,7 +37,7 @@ Archon‘s dominant phylum ; *Vireostoma* ; diverged into hundreds of specialize
 
 Over millions of years, that system crystallized into castes.
 
-### **1. The Drudgelings** - *The Base*
+### 1. The Drudgelings - *The Base*
 
 - Function: Organic waste processors, soil aerators, tunnel extruders
 - Appearance: A variety of different subspecies serving different purposes, some shaped as building blocks, others as columns, strange animals or low quality kitsch decorations.
@@ -51,7 +51,7 @@ The Drudgelings lived and died in endless service; bioengineered plumbing that t
 
                                                 <A Drudgeling warehouse>
 
-### 2**. The Jhummy -** *The Food*
+### 2. The Jhummy - *The Food*
 
 - Function: Livestock
 - Appearance: The Jhummy were selectively bred the way humans bred wolves into thousands of sub-species of dogs. However, the Jhummy were bred into species that would have different nutritional values and evolve into every avenue of taste and texture imaginable.
@@ -64,7 +64,7 @@ The Jhummy originally lacked sentience, but some were later bred into specific b
 
 <A common breed of Jhummy - the Torko>
 
-### 3**. The Halvon** - *The Laborers*
+### 3. The Halvon - *The Laborers*
 
 - Function: Carriers, builders, users of tools, walking beasts of burden
 - Appearance: Four-limbed, thick-spined, tusk-jawed bipedals with callused exoskin.
@@ -80,7 +80,7 @@ They *loved their masters*, felt euphoria when praised, and wept of grief when r
 
         <A Halvon, engineered for data collection>
 
-### 4**. The Z**aruu - *The Thinkers*
+### 4. The Zaruu - *The Thinkers*
 
 - Function: Sentience, intelligence, strategists, planners, historians, ethicists
 - Appearance: Zaruu start in a humanoid shape in their young age, fully matured Zaruu grow into enormous 7 foot tall square block of flesh and muscle, with a wide stance, waddling to walk
@@ -99,7 +99,7 @@ A young Zaruu with a head replacement for enhanced intelligence
 
 A fully matured Zaruu enhanced with latest tech cybernetics, their head has long worn out due to head replacement many decades ago, though they’ve implanted many cybernetic processors acting as brains to keep it alive and more intelligent than ever.
 
-### 5**. The Valtari** - *The Apex Elite*
+### 5. The Valtari - *The Apex Elite*
 
 - Function: Reproduction, consumption, glutton, inheritance
 - Appearance: Towering, crystalline-horned beings with soft, decorative limbs, bipedal humanoids
