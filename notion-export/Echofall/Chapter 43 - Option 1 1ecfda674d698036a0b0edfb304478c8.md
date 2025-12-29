@@ -247,7 +247,7 @@ Out the back door, into the freezing night, the fire roaring behind them.
 
 Driving off in the SUV, tires sreeching on the icy road, behind them, the police station slowly burned... by the time the neighborhood noticed, they were gone.
 
-### IV. The Barn
+### III. The Barn
 
 They drove through the night, heading back toward Dallas's ranch.
 
@@ -279,7 +279,7 @@ The barn exploded into flames.
 
 They didn't watch, they ran to the SUV, and drove quickly away from the crime scene.
 
-### V. The Escape
+### IV. The Escape
 
 They drove north. Fast.
 
@@ -388,7 +388,7 @@ Bihiniwa smiled.
 
 "We have a plane waiting. We should leave tonight, law enforcement will find you. We found you easily with a drone after we saw you burn down the police station on the news, so it's only a matter of time before they find you as well."
 
-### VI. The Flight South
+### V. The Flight South
 
 The private jet lifted off from a remote airstrip just outside Prince Albert at 3:47 AM.
 
@@ -535,7 +535,7 @@ Haoyu was gone.
 
 But his fight wasn't over.
 
-### VII. The Defection
+### VI. The Defection
 
 **Kinshasa, Democratic Republic of the Congo - Two Weeks Later**
 
