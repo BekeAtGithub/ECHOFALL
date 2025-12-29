@@ -115,7 +115,7 @@ Many who study this planet believe the Great Sludge Storm was the best event tha
 
 ### VI. Legacy
 
-Once the sludge storm has passed - the air cleared, and the sludge washed away, the atmosphere of the planet has mostly died, and for over hundreds of thousands of years - not a single wind storm swept the lands, no weather, no storms, thus; all fossils and remnants left over from the storm have been perfectly preserved.
+For over hundreds of thousands of years - storms happened rarely, in small pockets of the planet, thus; many fossils and remnants left over have been perfectly preserved.
 
 ![aldarion109_the_gene_devourer_--chaos_17_--profile_91nuuov_--st_4d51eccc-0705-44e5-8996-7aa295b335e3.png](Chapter%202%20-%20Slop%20Life/aldarion109_the_gene_devourer_--chaos_17_--profile_91nuuov_--st_4d51eccc-0705-44e5-8996-7aa295b335e3.png)
 
