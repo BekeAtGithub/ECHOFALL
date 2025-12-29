@@ -49,10 +49,6 @@ Those that grew larger:
 
 Each lineage became only more ridden with evolutionary failures.
 
-![480913718_122228762360031351_3887249303421508005_n.jpg](Chapter%202%20-%20Slop%20Life/480913718_122228762360031351_3887249303421508005_n.jpg)
-
-<Nhexus spawning pool with Spine-Lanterns>
-
 ### III. Pre-Slop Evolution
 
 Around Year 900M, Nhexus entered its pre-peak peak of complexity.
@@ -64,24 +60,34 @@ The most “successful” clade were the Pre-Slops:
 
 Competing fauna included:
 
-- Spine-lanterns: glow from their own spinal fluid, which acted as light sources, would often be an easy night target for a hungry predator
 - A variety of Crabs: This planet also evolved into many species of crabs which thrived in slop swamp pools and brine pits
 - Lurch-Buds: plants spread spores, which grew into all sorts of bizarre flora
-
-One species, the Crawling Shiver, would constantly scream ; not in pain, but as an accidental output of their sensory nerves brushing against internal teeth-like growths in the chest cavity.
-
-![481078418_122228842190031351_6779376410322222206_n.jpg](Chapter%202%20-%20Slop%20Life/481078418_122228842190031351_6779376410322222206_n.jpg)
-
-<The Djormo>
+- One species, the Crawling Shiver, would constantly scream ; not in pain, but as an accidental output of their sensory nerves brushing against internal teeth-like growths in the chest cavity.
 
 ### IV. The Gut-War Epoch
 
 Multiple proto-sentient lifeforms branched out in peak complexity from the Pre-Slop species, massive battles emerged due to the differences between the sub-specimen factions;
 
+### The Spine-Lanterns:
+
+- These bio-mechanical organisms glow from their own spinal fluid, which acted as light sources. 
+- Spine-lanterns would develop tube organs encased in hard carapace shells. They would use the tubes to connect to other Spine-Lanterns, creating a network of nutrients and information.
+- They would engulf other species, liquify them, and pump their remains into a pool.
+
+![480913718_122228762360031351_3887249303421508005_n.jpg](Chapter%202%20-%20Slop%20Life/480913718_122228762360031351_3887249303421508005_n.jpg)
+
+<Nhexus spawning pool with Spine-Lanterns>
+
+
 ### *The Djormo:*
 
-- Grew “liquid brains” that sloshed around the inside of their skulls, reacting to gravity
-- Could mimic sounds but not retain memory ; they wept constantly, not consciously knowing why
+- A big brute, bear-like species, though a lot more hideous.
+- Would terrorize many other living organisms throughout the planet, luckily would not breed often.
+
+
+![481078418_122228842190031351_6779376410322222206_n.jpg](Chapter%202%20-%20Slop%20Life/481078418_122228842190031351_6779376410322222206_n.jpg)
+
+<The Djormo>
 
 ### *The Ossari:*
 
