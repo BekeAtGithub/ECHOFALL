@@ -37,7 +37,7 @@ Then headed back to the police station.
 
 He pulled out a folded napkin and drew a crude layout of the station, based on their drive-by recon.
 
-“There’s a back door here,” he pointed. “Likely leads to a small hallway. Locker room, bathroom, maybe holding cell. If the artifact’s locked up anywhere, it’s either in evidence… or the armory.”
+“There’s a side door here,” he pointed. “Likely leads to a small hallway. Locker room, bathroom, maybe holding cell. If the artifact’s locked up anywhere, it’s either in evidence… or the armory.”
 
 “Or,” Steven added, “sittin’ on some dumbass desk ‘cause the guy inside thinks it’s just some busted alien banjo.”
 
@@ -133,7 +133,9 @@ The officer laughed, shaking his head.
 
 Steven kept going, spinning more ridiculous stories, keeping the officer distracted.
 
-Meanwhile, Dmitry crept around the back of the station. The back door was locked, but it was old ; a simple deadbolt. He pulled out a small pry bar from his jacket and worked it into the frame.
+Meanwhile, Dmitry crept around the sie of the station. The side door was unlocked.
+Dmitry had prepared for a locked door...
+"Nyet, they don't even care if I break in." He whispered to himself.
 
 *Click.*
 
