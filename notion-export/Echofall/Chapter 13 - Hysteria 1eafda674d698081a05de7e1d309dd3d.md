@@ -250,7 +250,7 @@ Iseul gave him the best work she’d ever done.
 
 Not because she believed in it.
 
-But because she wanted the watchers; if they ever looked at us, to see we marked our skin with what we feared most.
+But because the art culture around the aliens was becoming more mainstream, and she thought it was kind of cool, and it brought in more customers.
 
 ![u8296664269_Young_Chinese_woman_doing_tattoo_traditional_desi_6e9ce82e-2c46-4095-9631-8205efeaba01_1.png](Chapter%2013%20-%20Hysteria/u8296664269_Young_Chinese_woman_doing_tattoo_traditional_desi_6e9ce82e-2c46-4095-9631-8205efeaba01_1.png)
 
