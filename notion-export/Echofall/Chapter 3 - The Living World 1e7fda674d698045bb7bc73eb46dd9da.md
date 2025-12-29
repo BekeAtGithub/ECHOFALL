@@ -85,7 +85,7 @@ In the below image; a Halvon, engineered for data collection
 
 - Function: Sentience, intelligence, strategists, planners, historians, ethicists
 - Appearance: Zaruu start in a humanoid shape in their young age, fully matured Zaruu grow into enormous 7 foot tall square block of flesh and muscle, with a wide stance, waddling to walk
-- Traits: High memory capacity, recursive planning logic, not agile or proficient in any sort of physical activity, although they do have muscle, they exercise just by flexing their body on a daily basis
+- Traits: High memory capacity, recursive planning logic, not agile or proficient in any sort of physical activity, yet they do still exercise and maintain surprising muscle mass.
 - Reproduction: Rare; they often lived out their lives in hedonism rather than family reproduction lifestyles, thus they would have harems of Halvon slaves that were biologically engineered and surgically altered to be sexually attractive and promiscuous
 
 They knew what they were a part of.
