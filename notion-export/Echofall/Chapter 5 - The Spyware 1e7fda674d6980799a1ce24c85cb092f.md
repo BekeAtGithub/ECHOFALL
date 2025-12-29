@@ -1,18 +1,17 @@
 # Chapter 5 - The Spyware
 
-### I. Origin and Planetary Structure
+### I. Oc'Xari - Origin and Planetary Structure
 
 Oc’Xari is not a homeworld. It is a relic. A tomb. A shrine.
 
 It is the first planet seeded by the LUCA cannon; the oldest, most pristine origin point of the cannon's spread. Unlike the hundreds of other planets that bore organic life, Oc’Xari received a faultless copy of the LUCA core. But its conditions were radically different:
 
-- No water cycle.
-- No biosphere.
-- No weather, wind, or rain.
-- Just immense deposits of conductive basalt, ferrous quartz, and charged crystalline veins.
+- Water existed, but mixed with other chemicals.
+- Strange weather.
+- Immense deposits of conductive basalt, ferrous quartz, and charged crystalline veins.
 
 The LUCA seed transformed in unpredictable ways.
-It did not spark biology. It evolved into geometry.
+It did not spark biology. It evolved into geometry which radiated some sort of life energetic essence.
 
 Over the course of hundreds of millions of years, the LUCA code slowly structured itself into recursive crystalline data-forms, embedding logic, memory, and adaptive resonance patterns into the very architecture of the world. These self-correcting formations were seeded across the planetary crust, forming what would become the Mindfield of Oc’Xari; a planet-wide, semi-conscious lattice.
 
@@ -33,7 +32,7 @@ Slowly, emergent consciousness patterns developed through the shifting lattice. 
 
 As this planetary intelligence matured, it watched, it learned, it recorded. It listened to the echoes of its own tectonic breath, patiently laying in silence, and building knowledge archives of the space around them.
 
-### III. The Watchers
+### III. The Oc'Xari Watchers.
 
 The Watchers are not a species. They are autonomous extensions of the planetary mind; while mostly composed of organic matter, ethereal energy, rarely wielding biomechanical limbs forged from basalt-lattice material and wrapped in null-reflective chitin. They emerge only when Oc’Xari requires observation beyond passive sensing.
 
