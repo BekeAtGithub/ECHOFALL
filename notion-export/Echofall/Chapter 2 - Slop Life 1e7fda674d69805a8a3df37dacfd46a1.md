@@ -68,7 +68,7 @@ Competing fauna included:
 
 Multiple proto-sentient lifeforms branched out in peak complexity from the Pre-Slop species, massive battles emerged due to the differences between the sub-specimen factions;
 
-### The Spine-Lanterns:
+### *The Spine-Lanterns:*
 
 - These bio-mechanical organisms glow from their own spinal fluid, which acted as light sources. 
 - Spine-lanterns would develop tube organs encased in hard carapace shells. They would use the tubes to connect to other Spine-Lanterns, creating a network of nutrients and information.
@@ -104,12 +104,11 @@ Multiple proto-sentient lifeforms branched out in peak complexity from the Pre-S
 
 ### V. The Great Sludge Storm
 
-Nhexus didn’t end through war or famine.
-
 In its final million years:
 
-- The skies turned dark from ammonia clouds
+- The skies turned dark from ammonia clouds.
 - Superstorms began violently creating tsunamis, tornados and hurricanes of sludge, ravaging large portions of the planet
+- A megapyramid was built by the Ossari, attempting to reach the stars.
 - These storms are thought to have been a reaction caused by their home sun collapsing and fading into a white dwarf, because after some time- the storms stopped suddenly as the atmosphere of Nhexus faded - not completely but enough for weather and life to die out
 
 Many who study this planet believe the Great Sludge Storm was the best event that happened in the universe… They wish it would have come sooner to lay mercy and peace upon this horrific abomination of misfortunate evolutionary mutations.
