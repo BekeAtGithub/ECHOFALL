@@ -109,7 +109,7 @@ In its final million years:
 - The skies turned dark from ammonia clouds.
 - Superstorms began violently creating tsunamis, tornados and hurricanes of sludge, ravaging large portions of the planet
 - A megapyramid was built by the Ossari, attempting to reach the stars.
-- These storms are thought to have been a reaction caused by their home sun collapsing and fading into a white dwarf, because after some time- the storms stopped suddenly as the atmosphere of Nhexus faded - not completely but enough for weather and life to die out
+- These storms are thought to have been a reaction caused by their home sun collapsing and fading into a white dwarf. After some time, the storms calmed as the atmosphere of Nhexus faded, which followed by the planet cooling and dying.
 
 Many who study this planet believe the Great Sludge Storm was the best event that happened in the universe… They wish it would have come sooner to lay mercy and peace upon this horrific abomination of misfortunate evolutionary mutations.
 
