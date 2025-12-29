@@ -1,6 +1,6 @@
 # Chapter 44 - Option 2
 
-# I. The Second Choice - Give the Artifact to the Pig
+### I. The Second Choice - Give the Artifact to the Pig
  
 They slowly crept in their SUV past the police station ; just a squat, concrete building wedged between a dental office and a run-down sandwich shop. Only a single cruiser sat out front, rimmed in frost, clearly untouched for hours.
 

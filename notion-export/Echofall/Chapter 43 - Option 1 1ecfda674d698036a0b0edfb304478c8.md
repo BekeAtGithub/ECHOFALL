@@ -1,6 +1,6 @@
 # Chapter 43 - Option 1
 
-# I. The First Choice - Do Nothing.
+### I. The First Choice - Do Nothing.
 
 “You know- I’ve been thinking.” Dmitry finally spoke after a long ride of thought.
 

@@ -1,6 +1,6 @@
 # Chapter 45 - Option 3
 
-# I. The Third Choice - Give the Artifact to the Avaris
+### I. The Third Choice - Give the Artifact to the Avaris
 
 They slowly crept in their SUV driving a lap around the police station, scoping out the entrances. A squat, concrete building wedged between a dental office and a run-down sandwich shop. Only a single cruiser sat out front, rimmed in frost, clearly untouched for hours.
 
