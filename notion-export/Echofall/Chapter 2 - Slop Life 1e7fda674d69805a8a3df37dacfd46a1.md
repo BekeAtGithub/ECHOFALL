@@ -39,15 +39,13 @@ These organisms lacked structure. They often:
 
 - Vomited excess proteins their cells couldn’t fold correctly
 - Grew half-formed limbs that detached and rotted
-- Developed reversible nervous systems, causing pain when touched or thinking
-
-Many had no rear end, so waste was expelled from skin pores or from their faces, creating trails of pus, blood, excrement and other bodily fluids - some of those fluids would result in unintentional reproduction.
+- Never grew rectums to expel waste, so it would often come back out through their mouths.
 
 Those that grew larger:
 
 - Developed skull-walls that never closed, leaving brains partially exposed, being vulnerable to all sorts of parasites, diseases and plagues
-- Grew eyes on inward-facing stalks, forcing vision into themselves
-- Used tongues to walk, dragging themselves by taste muscle
+- Grew eyes that faced in random directions, causing them to experience disorientation.
+- Some used tongues to move-like snakes, dragging themselves by taste muscle
 
 Each lineage became only more ridden with evolutionary failures.
 
@@ -62,13 +60,13 @@ Around Year 900M, Nhexus entered its pre-peak peak of complexity.
 The most “successful” clade were the Pre-Slops:
 
 - These creatures created small buildings by vomiting sludge that would harden. They would regurgitate layers upon layers to create structures.
-- When Slops were impregnated, they often died birthing, as their frail bodies couldn’t handle birth, often resulting in obliterating more than half of their body. However, a single birthing resulted in a spawning pool with dozens of new Slops to live out their bleak existence of suffering.
+- Slops often died during reproduction, their bodies would often break apart, resulting in a spawning pool with dozens of new Slops to live out their bleak existence of suffering.
 
 Competing fauna included:
 
 - Spine-lanterns: glow from their own spinal fluid, which acted as light sources, would often be an easy night target for a hungry predator
-- Gullet-Crabs: This planet also evolved into many species of crabs which thrived in slop swamp pools and brine pits
-- Lurch-Buds: plants that gave birth to root-children, which grew into all sorts of bizarre flora
+- A variety of Crabs: This planet also evolved into many species of crabs which thrived in slop swamp pools and brine pits
+- Lurch-Buds: plants spread spores, which grew into all sorts of bizarre flora
 
 One species, the Crawling Shiver, would constantly scream ; not in pain, but as an accidental output of their sensory nerves brushing against internal teeth-like growths in the chest cavity.
 
@@ -82,7 +80,7 @@ Multiple proto-sentient lifeforms branched out in peak complexity from the Pre-S
 
 ### *The Djormo:*
 
-- Grew “brain-puddles” that sloshed around the inside of their skulls, reacting to gravity
+- Grew “liquid brains” that sloshed around the inside of their skulls, reacting to gravity
 - Could mimic sounds but not retain memory ; they wept constantly, not consciously knowing why
 
 ### *The Ossari:*
