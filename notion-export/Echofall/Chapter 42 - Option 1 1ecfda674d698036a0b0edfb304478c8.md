@@ -778,10 +778,7 @@ A sprawling three-story estate nestled among towering palms and tropical vegetat
 
 Six bedrooms with silk sheets and hand-carved furniture. A chef's kitchen with modern appliances. A private garden with exotic flowers, mango trees, and a crystal-clear infinity pool that seemed to blend into the jungle canopy.
 
-<video controls style="width: 100%; max-width: 800px; margin: 30px auto; display: block; border-radius: 8px;">
-    <source src="images/wifesmansion.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-</video>
+![wifesmansion.mp4](Chapter%2042%20-%20Option%201/wifesmansion.mp4)
 
 The air was thick with humidity and the scent of jasmine.
 

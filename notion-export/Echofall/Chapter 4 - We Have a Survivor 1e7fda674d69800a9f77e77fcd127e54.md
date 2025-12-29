@@ -102,11 +102,7 @@ And sometimes, late at night, or bright in the day, beneath skies littered with 
 
 “I wonder if anything else is out there - looking at the same sky as us.”
 
-
-<video controls style="width: 100%; max-width: 800px; margin: 30px auto; display: block; border-radius: 8px;">
-    <source src="images/earthbeauty.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-</video>
+![earthbeauty.mp4](Chapter%204%20-%20We%20Have%20a%20Survivor/earthbeauty.mp4)
 
 ### VI. The AI Revolution
 
