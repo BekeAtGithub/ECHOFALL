@@ -20,7 +20,7 @@ Dmitry pulled off to a side street, as they watched the police station from afar
 
 “The police officer will extinguish the fire…” argued Dmitry.
 
-Steven pulled his glock out checking the ammo - Dmity annoyingly added “ **tsssk** we are not going to kill the cop.”
+Steven pulled his glock out checking the ammo - Dmity annoyingly rolled his eyes “ **tsssk** we are not going to kill the cop.”
 
 “Dmitry I’m serious - this might even be a better idea - we kill the cop, we enter and burn the guitar and the new artifact they gave you with the whole fucking police station - then we go to Dallas’ Ranch and we burn that down too, and we escape to Northern Canada through the ice storms.”
 
