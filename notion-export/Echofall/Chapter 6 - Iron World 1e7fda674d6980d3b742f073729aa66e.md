@@ -29,9 +29,12 @@ The Iron Faith is not just a religion; it is culture. Every Rhonza believes in t
 The Four Pillars of the Iron Faith:
 
 1. **Honor is Respect** – All tools, thoughts, and life must be tested by fire
+
 2. **Metal is Culture** – Ancestors speak through steel; art carved into all things forged
+
 3. **Labor is Worship** – The body must work, sweat and suffer for the forge
-4. **Fire is Life** – If forge fire dies ; life will follow
+
+4. **Fire is Life** – If fire dies ; so will life
 
 ![u8296664269_Realistic_Art_style_post-apocalyptic_epic_landsca_03e2b510-36b7-4247-9aa1-f67a9ca9e541_3.png](Chapter%206%20-%20Iron%20World/u8296664269_Realistic_Art_style_post-apocalyptic_epic_landsca_03e2b510-36b7-4247-9aa1-f67a9ca9e541_3.png)
 
