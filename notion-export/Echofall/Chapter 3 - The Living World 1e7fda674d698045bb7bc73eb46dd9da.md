@@ -96,7 +96,7 @@ A young Zaruu with a head replacement for enhanced intelligence
 
 ![480840132_122228186642031351_6710203977557175341_n.jpg](Chapter%203%20-%20The%20Living%20World/480840132_122228186642031351_6710203977557175341_n.jpg)
 
-A fully matured Zaruu enhanced with latest tech cybernetics, their head has long worn out due to head replacement many decades ago, though they’ve implanted many cybernetic processors acting as brains to keep it alive and more intelligent than ever.
+A fully matured Zaruu enhanced with latest tech cybernetics, their head has long worn out due to hundreds of head replacements many decades ago, though they’ve implanted many cybernetic processors acting as brains to keep it alive, sentient and more intelligent than ever.
 
 ### 5. The Valtari - *The Apex Elite*
 
