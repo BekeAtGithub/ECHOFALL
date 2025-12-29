@@ -1,10 +1,5 @@
 # Chapter 5 - The Spyware
 
-**Oc’Xari**
-
-"Ethereal, enchanted, alive.
-We are the ones who watched."
-
 ### I. Origin and Planetary Structure
 
 Oc’Xari is not a homeworld. It is a relic. A tomb. A shrine.
