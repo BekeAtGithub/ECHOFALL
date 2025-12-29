@@ -75,10 +75,10 @@ It survived because:
 
 It came close.
 
-- Nuclear oblivion
-- Planet-scale warming
-- Biological collapse
-- Artificial apathy
+- Nuclear war
+- Climate change
+- Overpopulation, overproduction
+- Endless political conflicts
 
 But, Earth continues to thrive.
 
