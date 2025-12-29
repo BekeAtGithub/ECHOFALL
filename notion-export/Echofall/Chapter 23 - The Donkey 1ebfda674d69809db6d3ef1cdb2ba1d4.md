@@ -1,6 +1,6 @@
 # Chapter 23 - The Donkey
 
-### I. **Day 2 & 3: The Lab, The Ranch, The Raid and The Mystical Six Legged Donkey**
+### I. Day 2 & 3: The Lab, The Ranch, The Raid and The Mystical Six Legged Donkey
 
 The morning after the Ferron dream, the crew gathered in the barn around Dmitry’s tablet -reviewing everything.
 
@@ -142,7 +142,7 @@ Haoyu was thrown into the back of an armored transport, his face pressed against
 
 The drive to the facility felt like it took forever.
 
-### **III. Processing**
+### III. Processing
 
 Each crew member was placed in a separate, isolated holding cell ; no communication. No contact.
 
@@ -510,7 +510,7 @@ Dallas: (dryly)
 
 “Yup. But don’t worry ; I got a concussion, not brain damage. I know how it sounds. You already got my fingerprints and blood on file. Might as well add my dreams while you’re at it.”
 
-### **Interrogation: Haoyu’s Wife - Civilian, Mother of Two**
+### Interrogation: Haoyu’s Wife - Civilian, Mother of Two
 
 Agent:
 
@@ -536,7 +536,7 @@ Wife: *(quietly)*
 
 “Because for the first time in years... he actually came home from work. And we were together.”
 
-### **Interrogation: Haoyu’s Children**
+### Interrogation: Haoyu’s Children
 
 Agent: *(kneeling)*
 
@@ -558,7 +558,7 @@ He mumbled, fearfully - in truth “He’s a Hero”
 
 By the time the international tribunal closed the books on what media branded *“The Saskatchewan Cult Incident,”* the lives of everyone involved had been shattered beyond recognition.
 
-### **Pragnya Reddy** and Yuyan **Chan**
+### Pragnya Reddy and Yuyan Chan
 
 Both were deported back to the United States within 48 hours of questioning. Their responses had been polite, composed, and minimally incriminating ; but insufficient to escape scrutiny.
 
@@ -570,7 +570,7 @@ Both were placed under probationary supervision, assigned digital parole officer
 
 They left Canada with bruised reputations ; and a smoldering resentment towards Haoyu, Dmitry and Steven, whose bombastic interrogations had only made things worse for the team.
 
-### **Steven Young** and Dmitry Alexeyev
+### Steven Young and Dmitry Alexeyev
 
 The Canadian court deemed them “aggressively non-compliant” and classified their behavior as "technologically subversive with potential for retaliatory communication leaks.”
 
@@ -585,7 +585,7 @@ They were quietly transferred to a low-security facility in Georgia, where they 
 
 Their pleas for appeal were ignored.
 
-### **The Children**
+### The Children
 
 Removed immediately from their mother’s custody during the raid, the two minors were flown under sealed identity to a state-run youth containment center in Sacramento, California.
 
@@ -593,7 +593,7 @@ Though no charges were filed against them, the official report cited “emergenc
 
 They were renamed in the system and barred from any contact with either parent until age 18.
 
-### **The Wife**
+### The Wife
 
 She was placed under an emergency psychiatric hold in a Manhattan facility, initially for “post-traumatic disassociation” and later reclassified under Section 12.7 for *“paranoid delusion and alien-induced psychosis.”*
 
@@ -601,7 +601,7 @@ Despite a clean mental health history, the decision was non-negotiable.
 
 Her screams when they took the kids echoed in the hallway until the padded door closed.
 
-### **Dallas Red**
+### Dallas Red
 
 The court declared him an extreme threat to civil society.
 
@@ -624,7 +624,7 @@ His only words during sentencing:
 
 “This is fucking bullshit.”
 
-### **Commander Haoyu Zhang**
+### Commander Haoyu Zhang
 
 Once the face of *Echofall*, now branded the architect of mass manipulation and the root cause behind World War 5 - essentially being labeled as Adolf Hitler of the 26th century.
 
