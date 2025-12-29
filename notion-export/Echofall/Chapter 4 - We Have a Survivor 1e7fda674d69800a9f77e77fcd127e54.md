@@ -109,8 +109,8 @@ Human survival wasn’t ensured by brute force or divine intervention. It was ca
 What began as simple automation spiraled into a co-evolution:
 
 - AI-designed engines capable of solving equations no human could write
-- Recursive material science ; machines discovering stronger alloys every week
-- Predictive biosystems that mapped genetic potential in seconds
+- Recursive material science ; machines frequently discovering stronger alloys
+- Predictive biosystems that mapped new genetic potential
 - Autonomous labs running 24/7, creating iterations faster than entire universities once could
 
 This was not a singularity.
