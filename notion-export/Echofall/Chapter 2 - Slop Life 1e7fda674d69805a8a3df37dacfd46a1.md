@@ -8,7 +8,7 @@ This story is heinous, putrid and slow.
 On Nhexus however, life flourished… but it shouldn’t have. 
 The seed was damaged, and there was probably something wrong with the planet, too."
 
-## **Nhexus - The Slop Planet**
+## Nhexus - The Slop Planet
 
 ### I. Planet Overview
 
