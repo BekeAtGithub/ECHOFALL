@@ -96,8 +96,6 @@ It does not know it is one of thousands born of the same seed.
 
 It does not know that it won the jackpot of a galactic lottery ticket.
 
-But it suspects… it wasn’t supposed to make it.
-
 And sometimes, late at night, or bright in the day, beneath skies littered with fluorescent stars, or the looming moon, or the shining sun, someone will look up and say:
 
 “I wonder if anything else is out there - looking at the same sky as us.”
