@@ -188,7 +188,7 @@ Watching.
 
 And Earth had no idea…
 
-### IV. Return to Normal?
+### III. Return to Normal?
 
 A month passed.
 

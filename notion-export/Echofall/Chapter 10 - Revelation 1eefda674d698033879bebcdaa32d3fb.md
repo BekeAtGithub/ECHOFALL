@@ -234,8 +234,6 @@ After the United States isolated the Echofall project, countries left in the dar
 
 ![480275715_122229585044031351_1342528694955967010_n.jpg](Chapter%2010%20-%20Revelation/480275715_122229585044031351_1342528694955967010_n.jpg)
 
-Battlegrounds of New York State
-
 The brutal wars of carnage grinded hundreds of thousands of infantry soldiers into ground meat twisted with metal.
 
 ![477467728_122225686574031351_2817685855151205236_n.jpg](Chapter%2010%20-%20Revelation/dd1d41d2-5071-48df-9988-89c1bc6e05f1.png)

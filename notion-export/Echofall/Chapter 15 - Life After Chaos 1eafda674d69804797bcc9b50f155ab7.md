@@ -403,7 +403,7 @@ Not with a space battle.
 
 But with a man looking at a guitar etched with an alien map of the entire galaxy, and an ancient alien life from far far away, leaning in with anticipation. 
 
-### V. Dallas Red – *The First Note*
+### *The First Note*
 
 The barn was still. The sunlight through the wooden slats was golden and soft. Dust hung, refusing to settle.
 
@@ -455,7 +455,7 @@ Honest.
 
 Human.
 
-### VI. The Best Song in the Universe
+### The Best Song in the Universe
 
 But the guitar… wasn’t normal.
 
