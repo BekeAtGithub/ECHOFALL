@@ -22,7 +22,7 @@ Dmitry pulled off to a side street, as they watched the police station from afar
 
 Steven pulled his glock out checking the ammo - Dmity annoyingly added “ **tsssk** we are not going to kill the cop.”
 
-“Dmitry I’m serious - this might even be a better idea - we kill the cop, we enter and burn the guitar, we burn the other artifact they gave you - then we go to Dallas’ Ranch and we burn that down too, and we escape to Northern Canada through the ice storms.”
+“Dmitry I’m serious - this might even be a better idea - we kill the cop, we enter and burn the guitar and the new artifact they gave you with the whole fucking police station - then we go to Dallas’ Ranch and we burn that down too, and we escape to Northern Canada through the ice storms.”
 
 Silence passed, just the sound of the soft, luxury engine humming of the SUV, and wind howling outside.
 
@@ -43,7 +43,7 @@ He pulled out a folded napkin and drew a crude layout of the station, based on t
 
 Dmitry continued.
 
-“I’ll go around back. Quietly. You go through the front. Start knocking, draw his attention ; talk to him, pretend you need help or something.”
+“I don't think we should kill the officer if we don't have to. I’ll go around back. Quietly. You go through the front. Start knocking, draw his attention ; talk to him, pretend you need help or something.”
 
 “Then what?”
 
@@ -68,7 +68,7 @@ Steven took a long breath. Then double checked under his jacket ensuring the Glo
 
 “Alright. Let’s rob ourselves a police station.”
 
-### **II. The Assault**
+### II. The Assault
 
 **The Break-In was underway**
 
@@ -200,35 +200,7 @@ Dmitry pulled out the jerry cans from the SUV, which they'd brought in through t
 
 He started pouring gasoline ; on the floor, on the walls, on the desk, on the officer's body.
 
-The smell was overwhelming.
-
-Steven watched, then nodded.
-
-"Burn it all."
-
-Dmitry pulled out a lighter, flicked it open, and tossed it onto the gasoline-soaked floor.
-
-*WHOOSH.*
-
-The flames erupted instantly, spreading fast, consuming everything.
-
-They ran.
-
-Out the back door, into the freezing night, the fire roaring behind them.
-
-They threw the guitar case into the SUV and sped off, tires screeching on the icy road.
-
-Behind them, the police station slowly burned... by the time the neighborhood noticed, they were gone.
-
-### **III. The Field**
-
-They drove for twenty minutes, heading out into the open prairie. No lights. No houses. Just endless snow and darkness.
-
-Finally, Dmitry pulled off the road into a field, the SUV's headlights cutting through the night.
-
-They got out, dragging the guitar case with them.
-
-Steven opened it.
+Steven brought the guitar case over and opened it.
 
 The guitar gleamed in the headlights, its strings humming with that same eerie frequency. The sound hole was dark, impossibly deep.
 
@@ -248,15 +220,15 @@ Dmitry pulled out the Avaris artifact from his jacket ; still pulsing faintly.
 
 He placed it on top of the guitar.
 
-Steven flicked the lighter.
-
 "You sure about this?"
 
 Dmitry nodded.
 
 "Burn it all."
 
-Steven dropped the lighter.
+Steven pulled out a lighter, flicked it open, and tossed it onto the gasoline-soaked floor.
+
+*WHOOSH.*
 
 The flames erupted, consuming the guitar and the artifact in a roaring inferno.
 
@@ -266,25 +238,16 @@ Not the crackling of wood and metal burning, but something else. A high-pitched 
 
 The flames turned blue, then white, then something beyond color.
 
-Dmitry and Steven stumbled back, shielding their eyes.
 
-And then ; silence.
+The boys ran out of the station as the fire spread, consuming everything.
 
-The fire died.
+They ran.
 
-All that remained was ash.
+Out the back door, into the freezing night, the fire roaring behind them.
 
-Steven kicked at the remains.
+Driving off in the SUV, tires sreeching on the icy road, behind them, the police station slowly burned... by the time the neighborhood noticed, they were gone.
 
-"It's done."
-
-Dmitry looked at the sky, half-expecting the Pig to appear, to rage, to punish them.
-
-But nothing happened.
-
-Just the wind. The cold. The endless prairie.
-
-### **IV. The Barn**
+### IV. The Barn
 
 They drove through the night, heading back toward Dallas's ranch.
 
@@ -316,7 +279,7 @@ The barn exploded into flames.
 
 They didn't watch, they ran to the SUV, and drove quickly away from the crime scene.
 
-### **V. The Escape**
+### V. The Escape
 
 They drove north. Fast.
 
@@ -425,7 +388,7 @@ Bihiniwa smiled.
 
 "We have a plane waiting. We should leave tonight, law enforcement will find you. We found you easily with a drone after we saw you burn down the police station on the news, so it's only a matter of time before they find you as well."
 
-### **VI. The Flight South**
+### VI. The Flight South
 
 The private jet lifted off from a remote airstrip just outside Prince Albert at 3:47 AM.
 
@@ -572,7 +535,7 @@ Haoyu was gone.
 
 But his fight wasn't over.
 
-### **VII. The Defection**
+### VII. The Defection
 
 **Kinshasa, Democratic Republic of the Congo - Two Weeks Later**
 
@@ -826,7 +789,7 @@ Dmitry looked back at the house.
 
 "It's what Haoyu would have wanted."
 
-### **VII. The Revelation**
+### VII. The Revelation
 
 **Year 1 - The Leak**
 
