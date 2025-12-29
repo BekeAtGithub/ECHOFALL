@@ -12,7 +12,7 @@ Steven thought, and replied “Yeah, I thought about this several times througho
 
 As they pulled up to the police station, they looked inside and saw a dim light, just a lone police officer watching a tv show… looked like he was sleeping.
 
-“What the police station is also tainted by harboring the artifact?” Steven wondered out loud.
+“What if the police station is also tainted by harboring the artifact?” Steven wondered out loud.
 
 Dmitry pulled off to a side street, as they watched the police station from afar. Then he added- “I don’t really trust the pig, but I don’t trust the Oc’Xari either. And the Avaris seemed like it just randomly got thrown into all of this as a last ditch effort, they are probably just as clueless as us.”
 
