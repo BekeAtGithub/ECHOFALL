@@ -88,8 +88,6 @@ In the below image; a Halvon, engineered for data collection
 - Traits: High memory capacity, recursive planning logic, not agile or proficient in any sort of physical activity, yet they do still exercise and maintain surprising muscle mass.
 - Reproduction: Rare; they often lived out their lives in hedonism rather than family reproduction lifestyles, thus they would have harems of Halvon slaves that were biologically engineered and surgically altered to be sexually attractive and promiscuous
 
-They knew what they were a part of.
-
 They documented all history including their cruelty with perfect accuracy ; and justified it, with jargon terms like “ethical slavery”, “sustainable servitude”, “collaborative extermination”
 
 ![481049818_122228187950031351_435474417842973447_n.jpg](Chapter%203%20-%20The%20Living%20World/481049818_122228187950031351_435474417842973447_n.jpg)
