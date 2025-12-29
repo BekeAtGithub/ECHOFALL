@@ -1,16 +1,6 @@
-# Chapter 42 - Option 1
+# Chapter 43 - Option 1
 
-### **I. Another Round in Saskatchewan**
-
-**Swift Current, Saskatchewan - 11:47 PM**
-
-After a nonstop one-shot drive across the stretching Canadian prairie, mostly taking the smaller lesser known highways to try and evade police looking for the stolen vehicle along the Trans-Canada Highway. Dmitry and Steven finally rolled into the outskirts of Swift Current under a dim, frost-bitten sky. The journey had been long ; mostly silent ; with only occasional bursts of conversation to break the tension. Neither man had much left to say. Their thoughts ran in circles, spiraling around the same three possibilities: deliver the artifact, defy the Pig, or gamble on something even riskier.
-
-They’d stopped twice for gas, once for snacks ; each time brief, silent, mechanical. The roads had been clear, eerie in their emptiness, the highways ghostlike beneath the dim shimmer of the slowly rising moon.
-
-By the time they reached the heart of the town, it was nearing midnight. The place looked dead. Frozen. The sidewalks were glazed in layers of old ice, the roads half-lit by flickering yellow lamps. Everything had that abandoned feel ; as if even time had forgotten Swift Current.
-
-# **The Variation**
+# I. The First Choice - Do Nothing.
 
 “You know- I’ve been thinking.” Dmitry finally spoke after a long ride of thought.
 

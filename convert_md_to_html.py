@@ -155,7 +155,7 @@ def get_chapter_mapping():
         'title': 'The Chronicles of Evolution'
     })
     
-    # Add all 44 chapters
+    # Add all 45 chapters
     chapter_files = list(Path('notion-export/Echofall').glob('Chapter *.md'))
 
     # Sort by chapter number (not alphabetically)
@@ -208,18 +208,18 @@ def main():
         prev_link = None
         next_link = None
 
-        # Special handling for alternative endings (chapters 42, 43, 44)
+        # Special handling for alternative endings (chapters 43, 44, 45)
         # These are standalone endings and should have no navigation buttons
-        is_alternative_ending = chapter['html'] in ['chapter-42-option-1.html', 'chapter-43-option-2.html', 'chapter-44-option-3.html']
+        is_alternative_ending = chapter['html'] in ['chapter-43-option-1.html', 'chapter-44-option-2.html', 'chapter-45-option-3.html']
 
-        # Chapter 41 is the last main chapter before alternative endings
-        is_chapter_41 = 'chapter-41' in chapter['html']
+        # Chapter 42 is the last main chapter before alternative endings
+        is_chapter_42 = 'chapter-42' in chapter['html']
 
         if not is_alternative_ending:
             if i > 0:
                 prev_link = (chapters[i-1]['title'], chapters[i-1]['html'])
-            # Chapter 41 should not have a next button (branches to alternative endings)
-            if i < len(chapters) - 1 and not is_chapter_41:
+            # Chapter 42 should not have a next button (branches to alternative endings)
+            if i < len(chapters) - 1 and not is_chapter_42:
                 next_link = (chapters[i+1]['title'], chapters[i+1]['html'])
 
         # Generate full HTML page

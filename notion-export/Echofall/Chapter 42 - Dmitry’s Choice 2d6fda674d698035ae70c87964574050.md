@@ -1,4 +1,4 @@
-﻿
+
 This story has 3 alternative endings.
 
 You as the reader can now pick what option Dmitry chooses.
