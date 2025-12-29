@@ -1,6 +1,6 @@
 # Chapter 43 - Option 1
 
-### I. The First Choice - Do Nothing.
+### I. The First Choice - Do Nothing and Gamble for Everything.
 
 “You know- I’ve been thinking.” Dmitry finally spoke after a long ride of thought.
 
@@ -16,7 +16,7 @@ As they pulled up to the police station, they looked inside and saw a dim light,
 
 Dmitry pulled off to a side street, as they watched the police station from afar. Then he added- “I don’t really trust the pig, but I don’t trust the Oc’Xari either. And the Avaris seemed like it just randomly got thrown into all of this as a last ditch effort, they are probably just as clueless as us.”
 
-“I’m gonna give you another option Dmitry.” Steven taunted goofily trying to imitate the voice of the pig. They both laughed a bit over it… then Steven continued “If the Pig is serious, I’m gonna die, but I somehow think he’s full of shit. My option to you is - we go to the nearest gas station, fill up a few jerry cans - we come back to the police station, burn it down, and we go to the barn and we burn it down. Burn all the links that were opened to other worlds.”
+“I’m gonna give you another option Dmitry.” Steven taunted goofily trying to imitate the voice of the pig. They both laughed a bit over it… then Steven continued “If the Pig is serious, I’m gonna die, but I somehow think he’s full of shit. And I'm a gambling man, I'm gonna spin the roulette of cosmos in the galactic alien casino. My option to you is - we go to the nearest gas station, fill up a few jerry cans - we come back to the police station, burn it down, and we go to the barn and we burn it down. Burn all the links that were opened to other worlds.”
 
 “The police officer will extinguish the fire…” argued Dmitry.
 
