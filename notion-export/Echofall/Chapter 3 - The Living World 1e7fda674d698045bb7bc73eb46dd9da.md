@@ -35,7 +35,7 @@ In time, evolution produced a tiered web.
 
 Archon‘s dominant phylum ; *Vireostoma* ; diverged into hundreds of specialized forms. They evolved into integrated roles ; each genetically compelled to serve a niche within a living society.
 
-Over millions of years, that system crystallized into castes.
+Over millions of years, that system evolved into castes.
 
 ### 1. The Drudgelings - *The Base*
 
@@ -45,7 +45,7 @@ Over millions of years, that system crystallized into castes.
 - Traits: High pain tolerance, minimal neural structure
 - Reproduction: Sexual organs that plug into other species of the same tier
 
-The Drudgelings lived and died in endless service; bioengineered plumbing that tunneled, filtered, and swallowed refuse for the civilized, city creatures.
+The Drudgelings lived and died in endless service; bioengineered plumbing that served and swallowed refuse for the civilized, city creatures.
 
 ![480694706_122228199620031351_5396694013328280918_n.jpg](Chapter%203%20-%20The%20Living%20World/480694706_122228199620031351_5396694013328280918_n.jpg)
 
@@ -54,11 +54,11 @@ The Drudgelings lived and died in endless service; bioengineered plumbing that t
 ### 2. The Jhummy - *The Food*
 
 - Function: Livestock
-- Appearance: The Jhummy were selectively bred the way humans bred wolves into thousands of sub-species of dogs. However, the Jhummy were bred into species that would have different nutritional values and evolve into every avenue of taste and texture imaginable.
-- Traits: All castes would eat this species as a diet. With The Drudgelings feeding off only the least favorable cuts, and the other classes getting different qualities depending on their evolutionary caste ranking.
+- Appearance: The Jhummy were selectively bred the way humans bred wolves into thousands of sub-species of dogs. However, the Jhummy were bred into thousands of sub-species that would have different nutritional values and evolve into every avenue of taste and texture imaginable.
+- Traits: All castes would eat this species as a diet. With The Drudgelings feeding off only the least favorable varieties, and the other classes getting different qualities depending on their evolutionary caste ranking.
 - Life Cycle: Born in breeding, farming and lab facilities, and slaughtered in a processing factory by Halvons
 
-The Jhummy originally lacked sentience, but some were later bred into specific breeds that were fully self-aware and understood their role - this sentience was seen as a special “flavor profile” by the Valarti Apex Elite. There was something special to them about a fine dining menu at a top of the line luxury restaurant where a menu read “This steak is the finest cut from a Jhummy who wrote many books pondering life as a philosopher..”
+The Jhummy originally lacked sentience, but some were later bred into specific breeds that were fully self-aware and understood their role - this sentience was seen as a special “flavor profile” by the Valarti Apex Elite. There was something special to them about a fine dining menu at a top of the line luxury restaurant where a menu read “This steak is the finest cut from a Jhummy who lived as a philosopher, writing many books pondering life.” Of course, these special Jhummy *knew* they were livestock.
 
 ![elbombus_a_fantasy_beast_creature_that_is_like_a_goat_buffalo_h_d72dbd33-921e-41eb-8602-2454de5f1255.png](Chapter%203%20-%20The%20Living%20World/elbombus_a_fantasy_beast_creature_that_is_like_a_goat_buffalo_h_d72dbd33-921e-41eb-8602-2454de5f1255.png)
 
