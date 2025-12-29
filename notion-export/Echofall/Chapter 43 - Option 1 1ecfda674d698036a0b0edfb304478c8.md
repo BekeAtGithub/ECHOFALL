@@ -47,7 +47,7 @@ Dmitry continued.
 
 “Then what?”
 
-“Then I’ll sneak in, and I will beat him over the head with this wrench. We zip-tie him, gag him. Non-lethal if possible.”
+“Then I’ll sneak in, and I will beat him over the head with this wrench. We zip-tie him, gag him. Non-lethal if possible. And we can drag him outside so he doesn't burn in the fire.”
 
 Steven raised an eyebrow.
 
@@ -63,11 +63,11 @@ Dmitry passed him the oil filter he bought from the gas station.
 
 "When you shoot... put your glock barrel through it, it won't silence the shot, but, it'll at least make it a bit quieter. 
 
-“Once he’s down, maybe thirty minutes before anyone even thinks to check in. We find the evidence locker. Grab the guitar artifact. Then we get out. Fast, and we can burn it in a field.”
+“Once he’s down, maybe thirty minutes before anyone even thinks to check in. So we move fast.”
 
 Steven took a long breath. Then double checked under his jacket ensuring the Glock and magazines were secured, slipped the oil filter in his other pocket, and nodded.
 
-“Alright. Let’s rob ourselves a police station.”
+“Alright. Let’s burn down a police station.”
 
 ### II. The Assault
 
