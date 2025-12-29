@@ -392,6 +392,8 @@ They both sat in silence again, each sipping their now lukewarm coffees, staring
 
 ### III. The Ol’ Brand New Truck
 
+![prairies.jpg](Chapter%2020%20-%20The%20Saloon/prairies.jpg)
+
 A small chime echoed from the kitchen.
 
 The waitress appeared, now without the earlier sparkle of greeting ; her apron slightly rumpled, tablet tucked under one arm, tired smile on her lips.
