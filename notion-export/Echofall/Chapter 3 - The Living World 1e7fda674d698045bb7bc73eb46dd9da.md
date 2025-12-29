@@ -149,7 +149,7 @@ Others made “walkers” ; Drudgelings strapped to mechanical limbs, paraded th
 
 ### IV. Collapse: An Unexpected Evolution
 
-The system worked for hundreds of years ; however, the biological mutations which the Apex Elite inflicted upon the lower classes eventually started evolving into unexpected results. The Drudgelings ; *The Base caste* were suddenly no longer born with reproductive organs. The Valari attempted to bio-engineer future generations with reproduction, but their attempts were unsuccessful. They tried creating clones, but they just didn’t work the same way. 
+The system worked for hundreds of years ; however, the biological mutations which the Apex Elite inflicted upon the lower classes eventually started evolving into unexpected results. The Drudgelings ; *The Base caste* were suddenly no longer born with reproductive organs. The Valarti attempted to bio-engineer future generations with reproduction, but their attempts were unsuccessful. They tried creating clones, but they just didn’t work the same way. 
 
 After just a few generations, the lower class went extinct. 
 
