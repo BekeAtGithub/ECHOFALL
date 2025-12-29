@@ -90,11 +90,11 @@ Now, Earth is:
 - Sending data archives into space
 - Building simulations of itself
 - Studying extinct species it itself ended
-- Wondering if it is alone ; *while being a survivor among dead siblings*
+- Wondering if it is alone ; *while being a survivor among grotesque siblings*
 
 It does not know it is one of thousands born of the same seed.
 
-It does not know that it won he jackpot of a galactic lottery ticket.
+It does not know that it won the jackpot of a galactic lottery ticket.
 
 But it suspects… it wasn’t supposed to make it.
 
