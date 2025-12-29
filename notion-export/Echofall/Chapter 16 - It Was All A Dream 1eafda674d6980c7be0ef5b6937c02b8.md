@@ -644,3 +644,5 @@ A soft click sounded as he reached across and turned off the bedside lamp.
 More details don’t need to be said, if you know, you know what happened next.
 
 Once all was said and done, they fell asleep.
+
+![bedtime.png](Chapter%2016%20-%20It%20Was%20All%20A%20Dream/bedtime.png)
