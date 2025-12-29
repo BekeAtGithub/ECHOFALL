@@ -77,7 +77,7 @@ They headed to their positions.
 
 Steven walked up to the front door of the police station, his breath visible in the freezing air. He knocked ; loud, insistent, the kind of knock that said *I need help*.
 
-Inside, the officer stirred. A middle-aged man, balding, with a gut that suggested too many donuts and not enough exercise. He looked annoyed as he shuffled to the door.
+Inside, the officer stirred. A middle-aged man groaned as he woke up from his nap, got off the couch. He looked annoyed as he shuffled to the door.
 
 The officer cracked it open, suspicious.
 
