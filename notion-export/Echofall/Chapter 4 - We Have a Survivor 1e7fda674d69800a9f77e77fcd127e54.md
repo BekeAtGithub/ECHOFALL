@@ -113,9 +113,7 @@ What began as simple automation spiraled into a co-evolution:
 - Predictive biosystems that mapped new genetic potential
 - Autonomous labs running 24/7, creating iterations faster than entire universities once could
 
-This was not a singularity.
-
-It was an acceleration.
+This was an acceleration.
 
 And within three centuries, Earth had launched its most ambitious and strangest mission yet.
 
