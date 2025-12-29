@@ -76,9 +76,10 @@ The Halvon weren’t slaves by law ; they were slaves by biology.
 
 They *loved their masters*, felt euphoria when praised, and wept of grief when rejected.
 
-![480699061_122228199014031351_1578274115212527293_n.jpg](Chapter%203%20-%20The%20Living%20World/480699061_122228199014031351_1578274115212527293_n.jpg)
 
-In the above image; a Halvon, engineered for data collection
+In the below image; a Halvon, engineered for data collection
+
+![480699061_122228199014031351_1578274115212527293_n.jpg](Chapter%203%20-%20The%20Living%20World/480699061_122228199014031351_1578274115212527293_n.jpg)
 
 ### 4. The Zaruu - *The Thinkers*
 
