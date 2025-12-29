@@ -61,8 +61,9 @@ Dmitry shrugged.
 
 Dmitry passed him the oil filter he bought from the gas station.
 
->"When you shoot... put your glock barrel through it, it won't silence the shot, but, it'll at least make it a bit quieter.  
->“Once he’s down, maybe thirty minutes before anyone even thinks to check in. We find the evidence locker. Grab the guitar artifact. Then we get out. Fast, and we can burn it in a field.”
+"When you shoot... put your glock barrel through it, it won't silence the shot, but, it'll at least make it a bit quieter. 
+
+“Once he’s down, maybe thirty minutes before anyone even thinks to check in. We find the evidence locker. Grab the guitar artifact. Then we get out. Fast, and we can burn it in a field.”
 
 Steven took a long breath. Then double checked under his jacket ensuring the Glock and magazines were secured, slipped the oil filter in his other pocket, and nodded.
 
