@@ -134,7 +134,9 @@ The officer laughed, shaking his head.
 Steven kept going, spinning more ridiculous stories, keeping the officer distracted.
 
 Meanwhile, Dmitry crept around the sie of the station. The side door was unlocked.
+
 Dmitry had prepared for a locked door...
+
 "Nyet, they don't even care if I break in." He whispered to himself.
 
 *Click.*
@@ -187,10 +189,6 @@ Then Dmitry shook his head, snapping back to focus.
 
 They ran down the hallway, searching for the evidence locker.
 
-It didn't take long. A small room, locked with a keypad.
-
-Dmitry cracked it in less than a minute.
-
 Inside: rows of shelves, boxes, sealed bags. And there, in the corner ; the guitar case. Black. Old. Humming faintly.
 
 Steven grabbed it.
@@ -199,7 +197,7 @@ Steven grabbed it.
 
 "Wait."
 
-Dmitry pulled out the jerry cans from the SUV, which they'd brought in through the back door.
+Dmitry pulled out the jerry cans from the SUV, which they'd brought in through the side door.
 
 He started pouring gasoline ; on the floor, on the walls, on the desk, on the officer's body.
 
@@ -243,10 +241,6 @@ The flames turned blue, then white, then something beyond color.
 
 
 The boys ran out of the station as the fire spread, consuming everything.
-
-They ran.
-
-Out the back door, into the freezing night, the fire roaring behind them.
 
 Driving off in the SUV, tires sreeching on the icy road, behind them, the police station slowly burned... by the time the neighborhood noticed, they were gone.
 
@@ -294,7 +288,7 @@ They'd killed a cop. Burned down a police station and a barn. Destroyed evidence
 
 Every law enforcement agency in North America would be looking for them.
 
-They were running low on fuel, but didn't want to stop at any gas stations in risk of being seen by cameras or witnesses.
+After driving a few hundred kilometers, they were running low on fuel, but didn't want to stop at any gas stations in risk of being seen by cameras or witnesses.
 
 They ditched the SUV in a ravine, covering it with snow and branches.
 
@@ -315,7 +309,9 @@ But they were running out of time.
 On the fifth day, they stumbled into a small town ; barely more than a gas station and a few houses.
 
 They needed supplies. Food. Warmth.
+
 The sign read "Welcome to Spiritwood, Saskatchewan."
+
 Steven commented;
 "The Spirits are with us."
 
@@ -351,7 +347,7 @@ Dmitry and Steven exchanged a glance.
 
 "Watching us?"
 
-"The incident in Seattle. The escape from the blacksite. The theft of classified materials. The destruction of the police station. You've been making quite a bit of noise, Mr. Alexeyev. You're all over the news."
+"We tracked the crime scences... The incident in Seattle. The Revelstoke ski shop heist. The Banff car robbery. The destruction of the police station. We knew it was you. We traced the trail of destruction you left in your wake. We came to Saskatchewan right away after you burned the barn down, and we flew drones all over the damn place. You've been making quite a bit of noise, Mr. Alexeyev. You're all over the news."
 
 "What do you want?"
 
@@ -389,7 +385,7 @@ Dmitry turned back to Bihiniwa.
 
 Bihiniwa smiled.
 
-"We have a plane waiting. We should leave tonight, law enforcement will find you. We found you easily with a drone after we saw you burn down the police station on the news, so it's only a matter of time before they find you as well."
+"We have a plane waiting. We should leave tonight, law enforcement will find you. We easily found you, so it's only a matter of time before they find you as well."
 
 ### V. The Flight South
 
@@ -586,6 +582,8 @@ NASA had abandoned it. Declared the mission a failure. Moved on.
 
 But Dmitry hadn't forgotten.
 
+After reconstructing a network relay satellite and launching it into orbit, Dmitry was ready to make contact.
+
 He typed the final command, his fingers trembling slightly.
 
 "This should do it."
@@ -630,7 +628,7 @@ Bihiniwa entered the room, flanked by government officials.
 
 Dmitry turned to him.
 
-"This is just the beginning. With the blueprints I've provided—propulsion systems, life support, communication arrays—you can build your own missions. Your own rovers. Your own spacecraft."
+"This is just the beginning. With the blueprints I've provided propulsion systems, life support, communication arrays, you can build your own missions. Your own rovers. Your own spacecraft."
 
 "And you'll help us?"
 
@@ -649,7 +647,7 @@ Bihiniwa looked at Dmitry, then Steven.
 
 Dmitry paused, his voice heavy.
 
-"His family… I haven't seen or heard from them since prison. A wife. A son. A daughter. They were torn apart after the raid—separated, scattered. I don't know where they are now."
+"His family… I haven't seen or heard from them since prison. A wife. A son. A daughter. They were torn apart after the raid... separated, scattered. I don't know where they are now."
 
 His voice cracked.
 
@@ -681,7 +679,7 @@ The wife was found in Albany, New York—alone, barely surviving in a cramped ap
 
 The son was located in Los Angeles, living four stories underground in a shoebox apartment, working for a defense AI firm.
 
-The daughter was the hardest to extract—living with an abusive basketball player in St. Louis. The agents had to intervene carefully, but she came willingly once she understood.
+The daughter was the hardest to extract, living with an abusive basketball player in St. Louis. The agents had to intervene carefully, but she came willingly once she understood.
 
 Now, a small plane touched down at Kinshasa International Airport.
 
@@ -769,12 +767,9 @@ The wife turned to him, her voice barely a whisper.
 "Because Haoyu deserved better. And so do you."
 
 She broke down, sobbing.
-
 The son came in from the pool, his eyes red.
-
 The daughter joined them from the balcony.
-
-They held each other, crying—not just from grief, but from relief.
+They held each other, crying.
 
 Dmitry quietly stepped outside, giving them space.
 
@@ -806,7 +801,7 @@ Then, the cover-ups by Western governments.
 
 Then, the technologies that had been hidden.
 
-And then—the bombshell.
+And then, the bombshell.
 
 Live footage from EON-7b on Nhexus.
 
@@ -838,7 +833,7 @@ Built from Dmitry's blueprints. Funded by their mineral wealth. Crewed by Congol
 
 But they didn't do it alone.
 
-The Congo formed the **African Space Alliance**—a coalition with Rwanda, Kenya, Tanzania, Angola, Botswana, Namibia, Zimbabwe and Zambia.
+The Congo formed the **African Space Alliance** a coalition with Rwanda, Kenya, Tanzania, Angola, Botswana, Namibia, Zimbabwe and Zambia.
 
 Each nation contributed resources, expertise, and personnel.
 
@@ -868,7 +863,7 @@ Nations that had been marginalized for decades suddenly had leverage.
 
 The Congo, with its vast mineral wealth and newfound knowledge, became the technological hub of the world.
 
-Their space agency—**ACSA** (African Consortium for Space Advancement)—surpassed NASA in funding, missions, and discoveries.
+Their space agency **ACSA** (African Consortium for Space Advancement)surpassed NASA in funding, missions, and discoveries.
 
 EON-7b continued its mission on Nhexus, now sending back gigabytes of data daily.
 
@@ -896,7 +891,7 @@ Security Council seats were added for the Coalition.
 
 For the first time in centuries, the West was no longer in control.
 
-And in space, the flags of the Coalition flew on Mars, the Moon, and soon—Titan.
+And in space, the flags of the Coalition flew on Mars, the Moon, and soon; Titan.
 
 Not just the Congo's flag. But many others.
 
@@ -914,7 +909,7 @@ His daughter graduated top of her class from the University of Kinshasa, studyin
 
 His wife ran a well-funded community center, helping other displaced families find their footing. She wore fine clothes now, ate well, and smiled more often.
 
-The Congolese government treated them like royalty—honored guests who represented the sacrifice that changed the world.
+The Congolese government treated them like royalty-honored guests who represented the sacrifice that changed the world.
 
 They never forgot Commander Haoyu Zhang. They built a monument to him in the city center.
 
@@ -940,18 +935,28 @@ Humanity continued to search the stars.
 
 Led by the Coalition's ACSA, humanity had established permanent colonies on Mars, Europa, and Titan.
 
+ASCA discovered the Oc'Xari had an interesting influence on humanity. The data spread to many countries - initially being rejected as propaganda, but later being accepted as fact.
+
 Research stations operated by Rwandan scientists. Mining operations funded by Botswana, Bulgaria and Namibia. Engineering teams from Bangladesh, Hungary and Iraq.
 
 EON-7b, still operational on Nhexus, had been joined by dozens of other rovers and probes exploring distant worlds.
 
-**Year 500 - Corruption**
+**Year 500 - The Corruption**
+
+Advanced have been made by Malawi researchers on the Oc'Xari influence on humans, but progress still slow. 
 
 Humans do, what they do best. Greed, corruption, deception.
-Politics in Africa became very cutthroat. The generations that built up Africa 500 years ago were long gone. The new leaders of Africa sold their countries away to other competitive nations.
+Politics in Africa became very cutthroat. The generations that built up Africa 500 years ago were long gone. The new leaders of Africa sold their countries assets away to other competitive nations. Letting Africa perish to become a 3rd world continent once again.
 
 Power juggled between countries, alliances and leaders.
 
+**Year 600 - The Breakthrough**
+
+A great breakthrough was made by a research center in Taiwan. Learning more about the Oc'Xari, and their prescence throughout the galaxy - Taiwanese scientists and engineers mass produced micro-chips which would later be implanted into humans to become immune to Oc'Xari influence. 
+
 **Year 1000 - The Silence Continues**
+
+The Oc'Xari were still everywhere, but no longer had any influence over the human mind, as the Taiwanese micro-chips were implanted into every human on Earth.
 
 Every country on Earth was now a part of the common goal, to reach for the stars.
 Space exploration was no longer a competition. It was a collective effort. 

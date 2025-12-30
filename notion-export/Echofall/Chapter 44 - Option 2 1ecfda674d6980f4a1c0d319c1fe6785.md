@@ -87,12 +87,11 @@ Dmitry tapping Steven, with confusing hand signals - with Steven in disarray as 
 
 “This side door is a lot more secluded and should be easier to get through.”
 
-Without a doubt, Steven quietly jimmied the side door open with a crowbar while Dmitry watched the sleeping cop through the window. No alarm. No cameras outside. They crept through the dimly lit hallway, boots silent on the tile.
+Without a doubt, Steven quietly jimmied the side door open with a crowbar while Dmitry watched the sleeping cop through the window. 
+"The door ain't even locked." Steven mouthed.
+They slipped in, crept through the dimly lit hallway, boots silent on the tile.
 
-They found the evidence room-locked with a keypad.
-
-Dmitry had it cracked in 40 seconds.
-
+They found the evidence, also unlocked.
 Confidence grew in both of them, the robbery was going pretty good.
 
 Inside: rows of shelves, lockers, boxes. Dusty. Underused. There were sealed crates marked with alien symbols-an old D.O.D. shipment intercepted long ago and forgotten.
