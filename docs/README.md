@@ -7,17 +7,17 @@ This is the GitHub Pages deployment for the Echofall interactive story.
 - `index.html` - Main table of contents
 - `prologue.html` - Story prologue
 - `the-chronicles-of-evolution.html` - Chronicles introduction
-- `chapter-*.html` - 44 story chapters
+- `chapter-*.html` - 45 story chapters
 - `styles.css` - Global stylesheet
 - `images/` - All story images and videos
 
 ## Features
 
 - 44 chapters with navigation
-- 3 alternative endings (Chapters 42, 43, 44)
+- 3 alternative endings (Chapters 43, 44, 45)
 - Responsive design
 - Video backgrounds
-- Interactive choice buttons in Chapter 41
+- Interactive choice buttons in Chapter 42
 - Image galleries throughout
 
 ## Viewing Locally
