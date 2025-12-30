@@ -275,6 +275,8 @@ He saw a little note beside it, explaining the ribs are lab grown synthesized fr
 "How the hyeck did they get the bones so realistic?"
 Dmitry was impressed.
 
+![ribs.png](Chapter%2045%20-%20Option%203/ribs.png)
+
 He thought of Steven.
 The way Dmitry betrayed him. The confusion he must have felt.
 "Dmitry… what are you doing?"
