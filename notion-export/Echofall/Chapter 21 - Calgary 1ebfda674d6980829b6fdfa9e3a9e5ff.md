@@ -378,3 +378,5 @@ Dmitry didn’t interfere. He sat across the room on a chair at the old farmhous
 Dmitry and the Oc’Xari stared at each other for a long time.
 
 No words.
+
+![nightfarm.png](Chapter%2021%20-%20Calgary/nightfarm.png)

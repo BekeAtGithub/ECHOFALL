@@ -1,5 +1,7 @@
 # Chapter 26 - A New Language
 
+### I. Thread Alphabet
+
 They entered the woven structure with quiet reverence. The air inside felt denser, like being wrapped in warm fabric. The walls weren’t flat ; they *flowed*, as though slowly shifting under an invisible loom. Woven lamps glowed softly overhead.
 
 The Sylvar guides ; graceful, silent ; led them down a hall into what resembled a study chamber. Scrolls and threadbound books lined curved bone-silk shelves. The books were strange ; woven from leathery cloth, their pages made of linen and bark, inked not with liquid but stitched in tight, flowing thread symbols.
@@ -32,7 +34,7 @@ They knew what they were looking at ; or at least, how to learn it.
 
 “It’ll take months,” Steven said, squinting. “But we’ll get it.”
 
-### **II. Guest Quarters**
+### II. Guest Quarters
 
 As the woven sun dipped into the silk horizon, the Sylvar silently escorted them across a breezy walkway to a guest home ; an organic structure shaped like a beehive and lotus blossom combined.
 
@@ -44,7 +46,7 @@ The air hummed softly.
 
 Sleep took them without a fight.
 
-### **III. Back in the Cells**
+### III. Back in the Cells
 
 And just like that…
 
@@ -56,7 +58,7 @@ Steven blinked.
 
 “Well damn. That was the nicest bed I’ve had since prom night in Tampa.”
 
-### **#1: The Macaroni**
+### #1: The Macaroni
 
 In the following weeks, no other dreams arose, but they started noticing patterns in their everyday.
 
@@ -76,7 +78,7 @@ His beans were shaped like another symbol.
 
 “Lex. My lunch is speakin’ Alien-Elvish.”
 
-### **#2: The Wall Stain**
+### #2: The Wall Stain
 
 Another week gone by, as Dmitry sat on his cot, he noticed the stain on the wall beside his bunk.
 
@@ -86,7 +88,7 @@ But now he suddenly recognized it.
 
 A thread letter ; faint, like it had been burned into the paint long ago.
 
-### **#3: Reflections**
+### #3: Reflections
 
 Some more time passed
 
@@ -98,7 +100,7 @@ A verb, maybe. Or a name.
 
 He stared at it for too long.
 
-### **#4: The Shower Scene**
+### #4: The Shower Scene
 
 On another prison morning, Steven shuffled into the communal shower.
 
@@ -132,7 +134,7 @@ Dmitry didn’t look up.
 
 “And the universe is finally teaching us how to speak.”
 
-### **Day 492: The Return of the Dream**
+### Day 492: The Return of the Dream
 
 It had been over a year and a half since the police raid back in Red’s ranch.
 
@@ -146,7 +148,7 @@ By day 492, neither of them expected it to return.
 
 But it did.
 
-### **IV. Waking Under the Tree**
+### IV. Waking Under the Tree
 
 When the dream took them, it was gentle.
 
@@ -169,3 +171,5 @@ Instead of roads, paths of woven reed and dirt trails snaked through the fields.
 Forests of real trees bordered the landscape, and in their shade moved Sylver Elves ; not the ones from the Grand Nexus of silk from their initial dream, but simpler, earthier versions. They were barefoot, their robes made of coarse moss-fiber, hands full of berries, herbs, and cloth bundles.
 
 As they spotted the humans, they would scatter, hide, and curiously watch.
+
+![serica.png](Chapter%2026%20-%20A%20New%20Language/serica.png)

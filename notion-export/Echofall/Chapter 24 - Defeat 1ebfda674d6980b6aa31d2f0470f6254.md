@@ -1,6 +1,6 @@
 # Chapter 24 - Defeat
 
-### I. **Prison, Silence, and What’s Left**
+### Prison, Silence, and What’s Left
 
 ### Dmitry Alexeyev (AKA *Lex*)
 
@@ -36,7 +36,7 @@ Not rehabilitation.
 
 Silence. Banishment. Decay.
 
-### **Dallas Red**
+### Dallas Red
 
 **Cell 041-D** in the high-security wing of Calgary Central Correctional was windowless. A slab of cold concrete for a bed. Fluorescent light overhead that never shut off.
 
@@ -58,7 +58,7 @@ And he began to wonder:
 
 “Were the dreams even real? Or did I just lose my whole damn life for a crazy hallucination?”
 
-### **Haoyu Zhang**
+### Haoyu Zhang
 
 He had stopped eating.
 
@@ -129,3 +129,5 @@ And it was right.
 He wasn’t meant to see any of it.
 
 And now ; he was paying the price.
+
+![prison.png](Chapter%2024%20-%20Defeat/prison.png)
