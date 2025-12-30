@@ -2,12 +2,13 @@ A fictional sci-fi hypothesis behind the causation of life on Earth.
 
 The story entails speculative biology, anthropology of extinction, dreaded revelations of distant worlds, and cosmic horror tailored into the delicate threads of the universe.
 
-Majority of art in this book is ai generated. If you would like to donate art - I would happily represent your work. However in the meantime, I don't have the funds to allocate to pay artists.
-
 Chapters 1 to 8 are pure sci-fi lore.
 Chapter 9 is where the fictional story begins. 
 
 This book has multiple endings.
+
+Majority of art in this book is ai generated. If you would like to donate art - I would happily represent your work. However in the meantime, I don't have the funds to allocate to pay artists.
+
 
 [Prologue](Echofall/Prologue%201e7fda674d69801c87d0dcd3c11e3787.md)
 
