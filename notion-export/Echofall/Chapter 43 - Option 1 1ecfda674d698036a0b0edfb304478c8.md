@@ -943,7 +943,7 @@ EON-7b, still operational on Nhexus, had been joined by dozens of other rovers a
 
 **Year 500 - The Corruption**
 
-Advanced have been made by Malawi researchers on the Oc'Xari influence on humans, but progress still slow. 
+Advances have been made by Malawi researchers on the Oc'Xari influence on humans, but progress still slow. 
 
 Humans do, what they do best. Greed, corruption, deception.
 Politics in Africa became very cutthroat. The generations that built up Africa 500 years ago were long gone. The new leaders of Africa sold their countries assets away to other competitive nations. Letting Africa perish to become a 3rd world continent once again.
