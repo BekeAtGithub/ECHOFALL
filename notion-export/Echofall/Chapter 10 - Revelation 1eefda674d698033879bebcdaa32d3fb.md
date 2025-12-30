@@ -261,6 +261,8 @@ Not everyone understood it.
 
 But everyone felt it.
 
+![nhexusart.png](Chapter%2010%20-%20Revelation/nhexusart.png)
+
 ### V. A New Perspective
 
 Nhexus wasn’t just a dead world.

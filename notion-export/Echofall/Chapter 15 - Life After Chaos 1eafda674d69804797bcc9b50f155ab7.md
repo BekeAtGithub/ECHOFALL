@@ -1,6 +1,6 @@
 # Chapter 15 - Life After Chaos
 
-### 1. **Nadine Keshet – Teacher, Samarkand (Post-Arrival)**
+### 1. Nadine Keshet – Teacher, Samarkand (Post-Arrival)
 
 Three months after the sky dimmed, the Uzbekistan Ministry of Education invested in updated science textbooks.
 
@@ -43,7 +43,7 @@ And once, a quiet girl in the front row whispered after class:
 Every so often, a student would be seen off in a far side of the playground, seemingly talking and playing with an imaginary friend… such students would often experience changes in their personality, not bad changes… just different. 
 Their encounters would be shrugged off as “they’re just kids, growing and finding themselves”
 
-### 2. **Dalton “Stalwart” Bardwell – Detroit (Post-Arrival)**
+### 2. Dalton “Stalwart” Bardwell – Detroit (Post-Arrival)
 
 Dalton went viral, the Mayor of Detroit handed him a Hero award. He was gifted a beautiful house on the lakeside, and granted him a universal basic income so he may live out a financially stable life.
 
@@ -77,7 +77,7 @@ In the following months, Dalton received a particular distress call from Law Enf
 
 ![u8296664269_httpss.mj.runfdgZQC4PsxU_crowd_INFRONT_of_main_ch_e13134f6-c5d0-4c7c-b520-7b99c736ef0b_3.png](Chapter%2015%20-%20Life%20After%20Chaos/u8296664269_httpss.mj.runfdgZQC4PsxU_crowd_INFRONT_of_main_ch_e13134f6-c5d0-4c7c-b520-7b99c736ef0b_3.png)
 
-### 3. Iseul Jungwon **– Tattoo Artist, Daegu (Post-Arrival)**
+### 3. Iseul Jungwon – Tattoo Artist, Daegu (Post-Arrival)
 
 Business slowed after the Arrival.
 
@@ -103,7 +103,7 @@ One quiet night, Iseul was conducting general housekeeping of her shop, when she
 
 She packed up, closed the store for the day and went home.
 
-### **4. Master Lin Yusheng – Monk, Taishan Mountain, China (Post-Arrival)**
+### 4. Master Lin Yusheng – Monk, Taishan Mountain, China (Post-Arrival)
 
 The wind on Mount Taishan had changed.
 
@@ -179,7 +179,7 @@ The wind carried the scent of plum blossoms through the temple for the rest of t
 
 ![u8296664269_httpss.mj.runN2jVBuvGPdc_infront_of_the_monk_-_is_5de65ef1-81f1-4aaf-b023-143d37fc4220_2.png](Chapter%2015%20-%20Life%20After%20Chaos/u8296664269_httpss.mj.runN2jVBuvGPdc_infront_of_the_monk_-_is_5de65ef1-81f1-4aaf-b023-143d37fc4220_2.png)
 
-### 5. **Abhishek Bakshi – Underworld Broker, Hyderabad (Post-Arrival)**
+### 5. Abhishek Bakshi – Underworld Broker, Hyderabad (Post-Arrival)
 
 The panic economy was gone.
 
@@ -229,7 +229,7 @@ He figured if they ever needed a broker…
 
 He’d be the first name on their list.
 
-### 6. **James Kokayko – Truck Driver, Whitehorse, Yukon (Post-Arrival)**
+### 6. James Kokayko – Truck Driver, Whitehorse, Yukon (Post-Arrival)
 
 The highway was normal again.
 
@@ -289,7 +289,7 @@ James got back in his cab, and he had a schedule to keep.
 
 ![chapter15james.png](Chapter%2015%20-%20Life%20After%20Chaos/chapter15james.png)
 
-### 7. **Dallas Red – Saskatchewan Prairies (Post-Arrival)**
+### 7. Dallas Red – Saskatchewan Prairies (Post-Arrival)
 
 The last pickup truck kicked up a cloud of dust as it rolled down the dirt road, a trail of kids waving out the back, cheeks sticky with honeyed bannock and sunburned laughter, one last joking consensus amongst the folks heading home about the whole alien thing was a big government hoax.
 

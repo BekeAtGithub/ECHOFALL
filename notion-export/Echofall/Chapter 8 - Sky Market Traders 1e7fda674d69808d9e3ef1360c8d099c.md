@@ -132,3 +132,5 @@ Never knew of the ancient ones, or the LUCA, or the Oc’Xari, or anything.
 Never knew what they’d survived.
 
 As far as the Avaris knew- they were the only species in the universe, and they still have yet to discover the origins of how life began on their own planet.
+
+![nicehouse.png](Chapter%208%20-%20Sky%20Market%20Traders/nicehouse.png)

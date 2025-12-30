@@ -55,3 +55,5 @@ Researchers now believe these colonies achieved a form of distributed proto-cons
 Life lived on this way for millions of years. Never really flourishing, just surviving in tiny heat pockets throughout the planet.
 
 Trenmore-3 was not an uncommon scenario for LUCA life.
+
+![trenmore3.png](Chapter%201%20-%20A%20Frozen%20Generation/trenmore3.png)

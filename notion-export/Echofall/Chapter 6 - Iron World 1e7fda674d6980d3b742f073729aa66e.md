@@ -66,3 +66,5 @@ Without electricity or digital computation, the Rhonza have created a world of s
 - **Forge-Glyphs**: A written language made from pipe shapes, gear rotations, and metal-thread scripts
 
 Blueprints are revered texts, passed down generations. Some forges have been kept burning for over 2,000 years, considered living holy sites.
+
+![forge.png](Chapter%206%20-%20Iron%20World/forge.png)
