@@ -203,9 +203,9 @@ Beyond that, other display cases held:
 
 "Check this out!" - Steven pointed at two cases side by side with elegantly knitted sweaters in patterns never seen before.
 
-![Sweater 1](../../image%20dump/sweater1.png)
+![sweater1.png](Chapter%2028%20-%20Thesselvine/sweater1.png)
 
-![Sweater 2](../../image%20dump/sweater2.png)
+![sweater2.png](Chapter%2028%20-%20Thesselvine/sweater2.png)
 
 All around them, the hall stretched like a dream archive ; a repository of untold treasures. The occasional doorway broke the otherwise continuous flow, marked only by signs in the silk alphabet.
 

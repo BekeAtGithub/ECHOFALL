@@ -314,3 +314,5 @@ The Avaris gave a subtle nod.
 “Unfortunately I’m not a God. I cannot extend the deadline… now wake. Your time begins again.”
 
 And the dream dissolved once more into snow, breath, and tent canvas.
+
+![vasttable.png](Chapter%2039%20-%20Dreamscape/vasttable.png)

@@ -64,6 +64,8 @@ Warmth hit them like a wave. Fireplace, cabin lighting. Bright. Cozy.
 
 Rows of gear lined the walls; jackets, boots, helmets, snowboards, tents, sleeping bags, backpacks, skis, goggles, gloves, socks, water filters, solar panels. A survivalist’s paradise.
 
+![adventuregear.png](Chapter%2037%20-%20The%20Great%20Canadian%20Wilderness/adventuregear.png)
+
 Steven walked over to one of the first jackets on display. A sleek, high visibility orange, tech-insulated parka, wrapped in what looked like a hybrid of thermal alloy and carbon mesh. Sleek shoulder plating. Inner heating coils.
 
 “Damn…” he whispered.

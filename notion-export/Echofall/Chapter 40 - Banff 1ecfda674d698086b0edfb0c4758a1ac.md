@@ -108,7 +108,7 @@ Dmitry didn’t answer.
 
 He just stared forward, eyes fixed towards a sign pointing towards the highway out of Banff, the long stretch toward the rising prairie, toward the artifact, toward Swift Current... toward whatever waited in the end.
 
-![ChatGPT Image May 11, 2025, 09_00_35 PM.png](Chapter%2040%20-%20Banff/ChatGPT_Image_May_11_2025_09_00_35_PM.png)
+![banff.jpg](Chapter%2040%20-%20Banff/banff.jpg)
 
 ### **II. Borrowing things… lots of things…**
 
