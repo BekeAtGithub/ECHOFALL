@@ -133,7 +133,7 @@ The officer laughed, shaking his head.
 
 Steven kept going, spinning more ridiculous stories, keeping the officer distracted.
 
-Meanwhile, Dmitry crept around the sie of the station. The side door was unlocked.
+Meanwhile, Dmitry crept around the side of the station. The door was unlocked.
 
 Dmitry had prepared for a locked door...
 
