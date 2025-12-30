@@ -2,8 +2,7 @@ A fictional sci-fi hypothesis behind the causation of life on Earth.
 
 The story entails speculative biology, anthropology of extinction, dreaded revelations of distant worlds, and cosmic horror tailored into the delicate threads of the universe.
 
-The writing of this book is human, with ai spell check, grammar and structuring.
-Ai and Human art is also used throughout the book.
+Majority of art in this book is ai generated. If you would like to donate art - I would happily represent your work. However in the meantime, I don't have the funds to allocate to pay artists.
 
 Chapters 1 to 8 are pure sci-fi lore.
 Chapter 9 is where the fictional story begins. 
