@@ -76,4 +76,6 @@ And nobody cared.
 
 Dmitry and Steven lived their own lives, apart in solitude for the next 8 years.
 
+![despair.png](Chapter%2029%20-%20Despair/despair.png)
+
 ###
