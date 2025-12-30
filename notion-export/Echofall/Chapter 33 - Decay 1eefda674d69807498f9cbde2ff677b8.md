@@ -1,6 +1,6 @@
 # Chapter 33 - Decay
 
-### **Another Round at the Chuckwagon**
+### Another Round at the Chuckwagon
 
 As an experienced Forensic Psychologist, Dr. Jennifer Lynn knew a mental condition like this was borderline impossible, especially for a man who was a dignified Commander from the age of 30.
 
@@ -27,6 +27,8 @@ She arrived just past noon.
 The gravel crunched beneath her tires as she pulled into the Chuckwagon Café’s lot; just three cars in the whole place. She sat still for a moment, before she turned the key, stepped out, and closed the door with a quiet *thunk*.
 
 The cold wind met her immediately; it was hard to adjust to, coming from Mississippi.
+
+![goldenalberta.jpg](Chapter%2033%20-%20Decay/goldenalberta.jpg)
 
 The café looked exactly like what the name promised. A squat, homey diner with faded red trim, a wooden porch, and a large sign overhead in big, looping letters: *Chuckwagon Café*. A horseshoe was bolted above the door.
 
