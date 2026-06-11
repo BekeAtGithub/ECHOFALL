@@ -1,6 +1,6 @@
 # Echofall - Interactive Story Website
 
-This is the GitHub Pages deployment for the Echofall interactive story.
+this is the GitHub Pages deployment for the Echofall interactive story.
 
 ## Structure
 
